@@ -1,0 +1,20 @@
+package com.OkaneBanku.app.service;
+
+import com.OkaneBanku.app.exception.BusinessException;
+
+import com.OkaneBanku.app.model.customer;
+
+public interface CreateService {
+	
+	public int createCustomer(customer customer) throws BusinessException;
+	public int viewSavingAcc(int savingBalance) throws BusinessException;
+	public int viewCheckingAcc(int checkingBalance) throws BusinessException;
+	public int withdrawChecking(int checkingwithdraw) throws BusinessException;
+	public int withdrawSaving(int savingwithdraw) throws BusinessException;
+	public int depositChecking(int checkingdeposit) throws BusinessException;
+	public int depositSavinging(int savingdeposit) throws BusinessException;
+	public int transferChecking(int checkingtransfer) throws BusinessException;
+	public int transferSaving(int savingtransfer) throws BusinessException;
+	public String logincheck(String username, String password) throws BusinessException; 
+	
+}

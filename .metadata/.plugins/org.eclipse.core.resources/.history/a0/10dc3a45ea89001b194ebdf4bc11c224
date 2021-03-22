@@ -1,0 +1,24 @@
+package com.OkaneBanku.app.model;
+
+public class checking {
+private String checkingBalance;
+
+public checking() {
+	// TODO Auto-generated constructor stub
+}
+
+public String getCheckingBalance() {
+	return checkingBalance;
+}
+
+public void setCheckingBalance(String checkingBalance) {
+	this.checkingBalance = checkingBalance;
+}
+
+@Override
+public String toString() {
+	return "checking [checkingBalance=" + checkingBalance + "]";
+}
+
+
+}

@@ -1,0 +1,112 @@
+package com.OkaneBanku.app.service.impl;
+
+public class CustomerValidations {
+
+	public static boolean isFirstNameValid(String fname) {
+		if (fname != null && fname.matches("[a-zA-Z]{2,15}")) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	public static boolean isLastNameValid(String lname) {
+		if (lname != null && lname.matches("[a-zA-Z]{2,15}")) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	public static boolean isEmailValid(String email) {
+		if (email != null && email.matches(
+				"^[\\\\w!#$%&’*+/=?`{|}~^-]+(?:\\\\.[\\\\w!#$%&’*+/=?`{|}~^-]+)*@(?:[a-zA-Z0-9-]+\\\\.)+[a-zA-Z]{2,6}$")) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	public static boolean isPhoneValid(String phone) {
+		if (phone != null && phone.matches("^((\\\\(\\\\d{3}\\\\))|\\\\d{3})[- .]?\\\\d{3}[- .]?\\\\d{4}$")) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	public static boolean isCityValid(String city) {
+		if (city != null && city.matches("^[a-zA-Z]+(?:[\\s-][a-zA-Z]+)*$")) {
+			return true;
+		} else {
+			return false;
+
+		}
+	}
+	
+	public static boolean isUsernameValid(String username) {
+		if(username != null && username.matches("^[a-zA-Z0-9]([._-](?![._-])|[a-zA-Z0-9]){3,18}[a-zA-Z0-9]$")) {
+			return true;
+		}else {
+			return false;
+		}
+	}
+	public static boolean isPasswordValid(String pw) {
+		if(pw != null && pw.matches("^(?=.*[0-9])"
+                + "(?=.*[a-z])(?=.*[A-Z])"
+                + "(?=.*[@#$%^&+=])"
+                + "(?=\\S+$).{8,20}$")) {
+			return true;
+		}else {
+			return false;
+		}
+	}
+	
+	public static boolean isCheckWithdrawValid(String cw) {
+		if(cw != null && cw.matches("[0-9]")) {
+			return true;
+		}else {
+			return false;
+		}
+	}
+	
+	public static boolean isCheckDepositValid(String cd) {
+		if(cd != null && cd.matches("[0-9]")) {
+			return true;
+		}else {
+			return false;
+		}
+	}
+	
+	public static boolean isChecktransferValid(String ct) {
+		if(ct != null && ct.matches("[0-9]")) {
+			return true;
+		}else {
+			return false;
+		}
+	}
+	
+	public static boolean isSaveWithdrawValid(String sw) {
+		if(sw != null && sw.matches("[0-9]")) {
+			return true;
+		}else {
+			return false;
+		}
+	}
+	
+	public static boolean isSaveDepositValid(String sd) {
+		if(sd != null && sd.matches("[0-9]")) {
+			return true;
+		}else {
+			return false;
+		}
+	}
+	
+	public static boolean isSavetransferValid(String st) {
+		if(st != null && st.matches("[0-9]")) {
+			return true;
+		}else {
+			return false;
+		}
+	}
+}

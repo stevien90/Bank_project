@@ -1,0 +1,15 @@
+package com.OkaneBanku.app.service.impl;
+
+import com.OkaneBanku.app.exception.BusinessException;
+import com.OkaneBanku.app.model.customer;
+import com.OkaneBanku.app.service.CreateService;
+
+public class CustomerCreateImpl implements CreateService{
+
+	@Override
+	public int createCustomer(customer customer) throws BusinessException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.OkaneBanku.app.main;
+
+public class employeeMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

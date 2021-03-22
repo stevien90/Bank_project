@@ -1,0 +1,16 @@
+package com.OkaneBanku.app.service;
+
+import java.util.List;
+
+import com.OkaneBanku.app.exception.BusinessException;
+import com.OkaneBanku.app.model.customer;
+
+public interface EmployeeService {
+
+	public int createCustomer(customer customer) throws BusinessException;
+	public List<customer> getallAccounts() throws BusinessException;
+	public String logincheck(String username, String password) throws BusinessException;
+	//public int viewLogs
+	//public view logs
+	
+}

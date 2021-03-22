@@ -1,0 +1,24 @@
+package com.OkaneBanku.app.model;
+
+public class savings {
+private String savingsBalance;
+
+public savings() {
+	// TODO Auto-generated constructor stub
+}
+
+public String getSavingsBalance() {
+	return savingsBalance;
+}
+
+public void setSavingsBalance(String savingsBalance) {
+	this.savingsBalance = savingsBalance;
+}
+
+@Override
+public String toString() {
+	return "savings [savingsBalance=" + savingsBalance + "]";
+}
+
+
+}

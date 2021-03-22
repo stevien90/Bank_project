@@ -1,0 +1,15 @@
+package com.OkaneBanku.app.dao.impl;
+
+import com.OkaneBanku.app.dao.CustomerCreateDAO;
+import com.OkaneBanku.app.exception.BusinessException;
+import com.OkaneBanku.app.model.customer;
+
+public class CustomerCreateDAOImpl implements CustomerCreateDAO{
+
+	@Override
+	public int createCustomer(customer customer) throws BusinessException {
+		
+		return 0;
+	}
+
+}

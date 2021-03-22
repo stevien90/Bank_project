@@ -1,0 +1,23 @@
+package com.OkaneBanku.app.main;
+
+import java.util.Scanner;
+
+import org.apache.log4j.Logger;
+
+public class CustomerMain {
+	private static Logger usermessage=Logger.getLogger(CustomerMain.class);
+	public static void main(String[] args) {
+		usermessage.info("=====================================");
+		usermessage.info("|| Welcome to Okane Banku App V1.0 ||");
+		usermessage.info("=====================================");
+		
+		int choice = 0;
+		Scanner sc=new Scanner(System.in);
+		do {
+			usermessage.info("Main Menu");
+			usermessage.info("_________________");
+			usermessage.info("1)Log in");
+			usermessage.info("2)Create New Account");
+		}while (choice != 0);
+	}
+}

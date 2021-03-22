@@ -1,0 +1,53 @@
+package com.OkaneBanku.app.model;
+
+public class saving {
+private int savingsBalance;
+private int savingswithdraw;
+private int savingsdeposit;
+private int savingstransfer;
+
+public savings() {
+	// TODO Auto-generated constructor stub
+}
+
+public int getSavingsBalance() {
+	return savingsBalance;
+}
+
+public void setSavingsBalance(int savingsBalance) {
+	this.savingsBalance = savingsBalance;
+}
+
+
+public int getSavingswithdraw() {
+	return savingswithdraw;
+}
+
+public void setSavingswithdraw(int savingswithdraw) {
+	this.savingswithdraw = savingswithdraw;
+}
+
+public int getSavingsdeposit() {
+	return savingsdeposit;
+}
+
+public void setSavingsdeposit(int savingsdeposit) {
+	this.savingsdeposit = savingsdeposit;
+}
+
+public int getSavingstransfer() {
+	return savingstransfer;
+}
+
+public void setSavingstransfer(int savingstransfer) {
+	this.savingstransfer = savingstransfer;
+}
+
+@Override
+public String toString() {
+	return "savings [savingsBalance=" + savingsBalance + ", savingswithdraw=" + savingswithdraw + ", savingsdeposit="
+			+ savingsdeposit + ", savingstransfer=" + savingstransfer + "]";
+}
+
+
+}
