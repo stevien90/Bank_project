@@ -93,7 +93,7 @@ public class Main {
 											}
 										} catch (NumberFormatException e) {
 											usermessage.info(
-													"Enter numbers only");
+													"Incorrect option... please choose an option between 1 and 2\n");
 										}
 
 										break;
@@ -156,7 +156,7 @@ public class Main {
 													usermessage.info("New Checking balance: $" + customerservice
 															.viewCheckingAcc(customerinfo.getCustomerid()));
 												} catch (BusinessException e) {
-													usermessage.info("Incorrect option... please choose an option between 1 and 2\n");
+													e.getMessage();
 												}
 											}
 											if (accountchoice == 2) {
@@ -171,12 +171,12 @@ public class Main {
 													usermessage.info("New Saving balance: $" + customerservice
 															.viewSavingAcc(customerinfo.getCustomerid()));
 												} catch (BusinessException e) {
-													usermessage.info("Incorrect option... please choose an option between 1 and 2\n");
+													e.getMessage();
 												}
 											}
 										} catch (NumberFormatException e) {
 											usermessage.info(
-													"Enter numbers only");
+													"Incorrect option... please choose an option between 1 and 2\n");
 										}
 										break;
 									case 4:
@@ -206,7 +206,7 @@ public class Main {
 													usermessage.info("New Saving Balance: $" + customerservice
 															.viewSavingAcc(customerinfo.getCustomerid()));
 												} catch (BusinessException e) {
-													usermessage.info("Incorrect option... please choose an option between 1 and 2\n");;
+													e.getMessage();
 												}
 											}
 											if (accountchoice == 2) {
@@ -226,12 +226,12 @@ public class Main {
 													usermessage.info("New Saving Balance: $" + customerservice
 															.viewSavingAcc(customerinfo.getCustomerid()));
 												} catch (BusinessException e) {
-													usermessage.info("Incorrect option... please choose an option between 1 and 2\n");;
+													e.getMessage();
 												}
 											}
 										} catch (NumberFormatException e) {
 											usermessage.info(
-													"Enter numbers only");
+													"Incorrect option... please choose an option between 1 and 2");
 										}
 										break;
 									case 5:

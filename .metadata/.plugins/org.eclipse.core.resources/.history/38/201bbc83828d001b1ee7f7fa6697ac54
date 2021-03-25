@@ -51,9 +51,6 @@ public class CustomerImpl implements CustomerService {
 		if (withdraw > customerdao.viewCheckingAcc(customerid)) {
 			throw new BusinessException("Entered amount: " + withdraw + " is invalid");
 		}
-		if (withdraw <= 0) {
-			throw new BusinessException("Entered amount: " + withdraw + " is invalid");
-		}
 		return customerdao.withdrawChecking(customerid, withdraw);
 	}
 
@@ -61,9 +58,6 @@ public class CustomerImpl implements CustomerService {
 	public double withdrawSaving(int customerid, double withdraw) throws BusinessException {
 		
 		if (withdraw > customerdao.viewSavingAcc(customerid)) {
-			throw new BusinessException("Entered amount: " + withdraw + " is invalid");
-		}
-		if (withdraw <= 0) {
 			throw new BusinessException("Entered amount: " + withdraw + " is invalid");
 		}
 		return customerdao.withdrawSaving(customerid, withdraw);

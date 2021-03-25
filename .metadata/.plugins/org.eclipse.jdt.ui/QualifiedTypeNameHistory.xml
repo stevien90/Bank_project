@@ -31,7 +31,6 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
-    <fullyQualifiedTypeName name="com.OkaneBanku.app.exception.BusinessException"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.service.impl.CustomerImpl"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeAll"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.service.CustomerService"/>
@@ -40,4 +39,5 @@
     <fullyQualifiedTypeName name="org.junit.jupiter.params.provider.MethodSource"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.model.customer"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.service.impl.CustomerValidations"/>
+    <fullyQualifiedTypeName name="com.OkaneBanku.app.exception.BusinessException"/>
 </qualifiedTypeNameHistroy>
