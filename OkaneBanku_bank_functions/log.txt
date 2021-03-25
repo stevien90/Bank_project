@@ -10,13 +10,11 @@
 3) Create New Account
 4) Exit Application
 
-Fill out the details below to create a new account
-Enter First name
-Enter Last name
-Create new username
-Create new passowrd
-Enter your starting checking balance
-Enter your starting saving balance
+
+Enter username: 
+
+Enter password: 
+Unable to reach database
  _________________
 |    Main Menu    |
  -----------------
