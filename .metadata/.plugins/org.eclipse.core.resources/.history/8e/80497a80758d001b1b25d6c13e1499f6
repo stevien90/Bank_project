@@ -78,7 +78,7 @@ public class Main {
 													usermessage.info("\nCurrent Balance: $" + customerservice
 															.viewCheckingAcc(customerinfo.getCustomerid()));
 												} catch (BusinessException e) {
-													e.getMessage();
+													usermessage.info("Unable to peform transaction due to unverified Account");
 												}
 											}
 											if (accountchoice == 2) {
@@ -86,7 +86,7 @@ public class Main {
 													usermessage.info("\nCurrent balance: $" + customerservice
 															.viewSavingAcc(customerinfo.getCustomerid()));
 												} catch (BusinessException e) {
-													e.getMessage();
+													usermessage.info("Unable to peform transaction due to unverified Account");
 												}
 											}
 										} catch (NumberFormatException e) {
@@ -113,7 +113,7 @@ public class Main {
 													usermessage.info("\nNew Checking balance: $" + customerservice
 															.depositChecking(customerinfo.getCustomerid(), deposit));
 												} catch (BusinessException e) {
-													e.getMessage();
+													usermessage.info("Unable to peform transaction due to unverified Account");
 												}
 											}
 											if (accountchoice == 2) {
@@ -124,7 +124,7 @@ public class Main {
 													usermessage.info("\nNew Saving balance: $" + customerservice
 															.depositSaving(customerinfo.getCustomerid(), deposit));
 												} catch (BusinessException e) {
-													e.getMessage();
+													usermessage.info("Unable to peform transaction due to unverified Account");
 												}
 											}
 										} catch (NumberFormatException e) {
@@ -154,7 +154,7 @@ public class Main {
 													usermessage.info("New Checking balance: $" + customerservice
 															.viewCheckingAcc(customerinfo.getCustomerid()));
 												} catch (BusinessException e) {
-													e.getMessage();
+													usermessage.info("Unable to peform transaction due to unverified Account");
 												}
 											}
 											if (accountchoice == 2) {
@@ -169,7 +169,7 @@ public class Main {
 													usermessage.info("New Saving balance: $" + customerservice
 															.viewSavingAcc(customerinfo.getCustomerid()));
 												} catch (BusinessException e) {
-													e.getMessage();
+													usermessage.info("Unable to peform transaction due to unverified Account");
 												}
 											}
 										} catch (NumberFormatException e) {
