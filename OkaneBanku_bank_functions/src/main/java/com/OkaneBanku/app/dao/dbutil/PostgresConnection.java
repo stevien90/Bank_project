@@ -8,11 +8,11 @@ public class PostgresConnection {
 
 		private static Connection connection;
 
-		private PostgresConnection() {
-			// TODO Auto-generated constructor stub
+		public PostgresConnection() {
+
 		}
 
-		public static Connection getConnection() throws ClassNotFoundException, SQLException {
+		public Connection getConnection() throws ClassNotFoundException, SQLException {
 
 			//if (connection == null) {
 				Class.forName("org.postgresql.Driver");

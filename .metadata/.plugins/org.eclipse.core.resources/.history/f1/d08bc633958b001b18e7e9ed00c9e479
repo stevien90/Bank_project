@@ -1,0 +1,31 @@
+package com.OkaneBanku.app.model;
+
+public class employee {
+	private String employeeUsername;
+	private String employeePassword;
+	
+	public employee(String employeeUsername, String employeePassword) {
+		super();
+		this.employeeUsername = employeeUsername;
+		this.employeePassword = employeePassword;
+	}
+	
+	public String getEmployeeUsername() {
+		return employeeUsername;
+	}
+	public void setEmployeeUsername(String employeeUsername) {
+		this.employeeUsername = employeeUsername;
+	}
+	public String getEmployeePassword() {
+		return employeePassword;
+	}
+	public void setEmployeePassword(String employeePassword) {
+		this.employeePassword = employeePassword;
+	}
+	@Override
+	public String toString() {
+		return "employee [employeeUsername=" + employeeUsername + ", employeePassword=" + employeePassword + "]";
+	}
+	
+
+}

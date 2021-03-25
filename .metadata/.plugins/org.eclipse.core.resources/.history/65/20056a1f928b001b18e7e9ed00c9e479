@@ -1,0 +1,11 @@
+package com.OkaneBanku.app.dao;
+
+import java.util.List;
+
+import com.OkaneBanku.app.exception.BusinessException;
+import com.OkaneBanku.app.model.account;
+
+public interface EmployeeDAO {
+	public List<account> getAllaccounts() throws BusinessException;
+	
+}

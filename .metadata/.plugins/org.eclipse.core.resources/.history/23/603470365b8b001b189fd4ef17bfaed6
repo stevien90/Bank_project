@@ -1,0 +1,13 @@
+package com.OkaneBanku.app.service;
+
+import com.OkaneBanku.app.exception.BusinessException;
+
+import com.OkaneBanku.app.model.customer;
+
+public interface CustomerService {
+	
+	public int createCustomer(customer customer) throws BusinessException;
+	public int viewSavingAcc(int savingBalance) throws BusinessException;
+	public int viewCheckingAcc(int checkingBalance) throws BusinessException;
+	
+}

@@ -1,0 +1,15 @@
+package com.OkaneBanku.app.dao;
+
+import java.util.List;
+
+import com.OkaneBanku.app.exception.BusinessException;
+import com.OkaneBanku.app.model.account;
+import com.OkaneBanku.app.model.customer;
+
+public interface EmployeeDAO {
+	//view logs of transaction
+	public void createCustomer(customer customer) throws BusinessException;
+	public void validateCustomer(int customerid, boolean verify) throws BusinessException;//false to true
+	//can view any accounts
+	
+}

@@ -1,0 +1,17 @@
+package com.OkaneBanku.app.dao.impl;
+
+import java.util.List;
+
+import com.OkaneBanku.app.dao.EmployeeDAO;
+import com.OkaneBanku.app.exception.BusinessException;
+import com.OkaneBanku.app.model.account;
+
+public class EmployeeDAOImpl implements EmployeeDAO {
+
+	@Override
+	public List<account> getAllaccounts() throws BusinessException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

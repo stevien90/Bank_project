@@ -1,0 +1,29 @@
+=====================================
+|| Welcome to Okane Banku App V1.0 ||
+=====================================
+
+ _________________
+|    Main Menu    |
+ -----------------
+1) Customer Log in
+2) Employee Log in
+3) Create New Account
+4) Exit Application
+
+Fill out the details below to create a new account
+Enter First name
+Enter Last name
+Create new username
+Create new passowrd
+Enter your starting checking balance
+Enter your starting saving balance
+ _________________
+|    Main Menu    |
+ -----------------
+1) Customer Log in
+2) Employee Log in
+3) Create New Account
+4) Exit Application
+
+
+Thank you for choosing Okane Banku to perform your banking needs

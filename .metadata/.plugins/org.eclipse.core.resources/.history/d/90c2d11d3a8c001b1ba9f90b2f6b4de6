@@ -1,0 +1,45 @@
+package com.OkaneBanku.app.dao.impl;
+
+import java.util.List;
+
+import com.OkaneBanku.app.dao.EmployeeDAO;
+import com.OkaneBanku.app.exception.BusinessException;
+import com.OkaneBanku.app.model.customer;
+import com.OkaneBanku.app.model.transaction;
+
+public class EmployeeDAOImpl implements EmployeeDAO {
+
+	@Override
+	public List<transaction> viewLogs(int customerid) throws BusinessException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void createCustomer(customer customer) throws BusinessException {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void validateCustomer(int customerid, boolean verify) throws BusinessException {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<customer> getAllpendingaccounts() throws BusinessException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<customer> getAllverifiedaccounts() throws BusinessException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+	}
+
+

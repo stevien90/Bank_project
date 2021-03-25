@@ -1,0 +1,74 @@
+package com.OkaneBanku.app.service.impl;
+
+import com.OkaneBanku.app.dao.CustomerDAO;
+
+import com.OkaneBanku.app.dao.impl.CustomerDAOImpl;
+import com.OkaneBanku.app.exception.BusinessException;
+import com.OkaneBanku.app.model.customer;
+import com.OkaneBanku.app.service.CustomerService;
+
+public class CustomerImpl implements CustomerService{
+	
+	CustomerDAO customerdao = new CustomerDAOImpl();
+	
+	@Override
+	public void createCustomer(customer customer) throws BusinessException {
+		customerdao.createCustomer(customer);
+	}
+
+	@Override
+	public double viewSavingAcc(int customerid) throws BusinessException {
+		
+		return customerdao.viewSavingAcc(customerid);
+	}
+
+	@Override
+	public double viewCheckingAcc(int customerid) throws BusinessException {
+		
+		return customerdao.viewCheckingAcc(customerid);
+	}
+
+	@Override
+	public double withdrawChecking(int customerid, double withdraw) throws BusinessException {
+		
+		return customerdao.withdrawChecking(customerid, withdraw);
+	}
+
+	@Override
+	public double withdrawSaving(int customerid, double withdraw) throws BusinessException {
+		
+		return customerdao.withdrawSaving(customerid, withdraw);
+	}
+
+	@Override
+	public double depositChecking(int customerid, double deposit) throws BusinessException {
+		// TODO Auto-generated method stub
+		return customerdao.depositChecking(customerid, deposit);
+	}
+
+	@Override
+	public double depositSaving(int customerid, double deposit) throws BusinessException {
+		
+		return customerdao.depositSaving(customerid, deposit);
+	}
+
+	@Override
+	public double transferChecking(int customerid, double transfer) throws BusinessException {
+	
+		return customerdao.withdrawChecking(customerid, withdraw);
+	}
+
+	@Override
+	public double transferSaving(int customerid, double transfer) throws BusinessException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public String logincheck(String username, String password) throws BusinessException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+
+}

@@ -4,30 +4,50 @@ public class customer {
 
 	private String firstname;
 	private String lastname;
-	private String email;
-	private String phone;
-	private String city;
-	private String state;
 	private String customerUsername;
 	private String customerPassword;
-	private checking checkingbalance;
-	private saving savingbalance;
-	private account accountid;
+	private double checkingbalance;
+	private double savingbalance;
+	private int accountid;
+	private boolean pending;
+	private int customerid;
+
 	public customer() {
 
 	}
 
-	public customer(String firstname, String lastname, String email, String phone, String city, String state, int deposit,
-			int withdraw, int transfer, String customerUsername, String customerPassword) {
+	// for service
+	public customer(String firstname, String lastname, String customerUsername, String customerPassword,
+			double checkingbalance, double savingbalance, int accountid, boolean pending) {
 		super();
 		this.firstname = firstname;
 		this.lastname = lastname;
-		this.email = email;
-		this.phone = phone;
-		this.city = city;
-		this.state = state;
 		this.customerUsername = customerUsername;
 		this.customerPassword = customerPassword;
+		this.checkingbalance = checkingbalance;
+		this.savingbalance = savingbalance;
+		this.accountid = accountid;
+		this.pending = pending;
+	}
+	
+
+	public customer(String firstname, String lastname, String customerUsername, String customerPassword) {
+		super();
+		this.firstname = firstname;
+		this.lastname = lastname;
+		this.customerUsername = customerUsername;
+		this.customerPassword = customerPassword;
+	}
+
+	public customer(String firstname, String lastname, String customerUsername, String customerPassword,
+			boolean pending, int customerid) {
+		super();
+		this.firstname = firstname;
+		this.lastname = lastname;
+		this.customerUsername = customerUsername;
+		this.customerPassword = customerPassword;
+		this.pending = pending;
+		this.customerid = customerid;
 	}
 
 	public String getFirstname() {
@@ -46,37 +66,6 @@ public class customer {
 		this.lastname = lastname;
 	}
 
-	public String getEmail() {
-		return email;
-	}
-
-	public void setEmail(String email) {
-		this.email = email;
-	}
-
-	public String getPhone() {
-		return phone;
-	}
-
-	public void setPhone(String phone) {
-		this.phone = phone;
-	}
-
-	public String getCity() {
-		return city;
-	}
-
-	public void setCity(String city) {
-		this.city = city;
-	}
-
-	public String getState() {
-		return state;
-	}
-
-	public void setState(String state) {
-		this.state = state;
-	}
 
 	public String getCustomerUsername() {
 		return customerUsername;
@@ -94,32 +83,52 @@ public class customer {
 		this.customerPassword = customerPassword;
 	}
 
-	public checking getCheckingbalance() {
+	public double getCheckingbalance() {
 		return checkingbalance;
 	}
 
-	public void setCheckingbalance(checking checkingbalance) {
+	public void setCheckingbalance(double checkingbalance) {
 		this.checkingbalance = checkingbalance;
 	}
 
-	public saving getSavingbalance() {
+	public double getSavingbalance() {
 		return savingbalance;
 	}
 
-	public void setSavingsbalance(saving savingsbalance) {
-		this.savingbalance = savingsbalance;
+	public void setSavingbalance(double savingbalance) {
+		this.savingbalance = savingbalance;
+	}
+
+	public int getAccountid() {
+		return accountid;
+	}
+
+	public void setAccountid(int accountid) {
+		this.accountid = accountid;
+	}
+
+	public boolean isPending() {
+		return pending;
+	}
+
+	public void setPending(boolean pending) {
+		this.pending = pending;
 	}
 
 	@Override
 	public String toString() {
-		return "customer [firstname=" + firstname + ", lastname=" + lastname + ", email=" + email + ", phone=" + phone
-				+ ", city=" + city + ", state=" + state + ", customerUsername=" + customerUsername
-				+ ", customerPassword=" + customerPassword + ", checkingbalance=" + checkingbalance
-				+ ", savingbalance=" + savingbalance + "]";
+		return "customer [firstname=" + firstname + ", lastname=" + lastname + ", customerUsername=" + customerUsername
+				+ ", customerPassword=" + customerPassword + ", checkingbalance=" + checkingbalance + ", savingbalance="
+				+ savingbalance + ", accountid=" + accountid + ", pending=" + pending + "]";
 	}
 
+	public int getCustomerid() {
+		return customerid;
+	}
 
+	public void setCustomerid(int customerid) {
+		this.customerid = customerid;
+	}
 
-
-
+	
 }

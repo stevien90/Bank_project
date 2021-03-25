@@ -1,0 +1,37 @@
+package com.OkaneBanku.app.model;
+
+public class account {
+private int accountid;
+private boolean approve;
+
+
+public account() {
+}
+
+public account(int accountid) {
+	super();
+	this.accountid = accountid;
+}
+
+public int getAccountid() {
+	return accountid;
+}
+
+public void setAccountid(int accountid) {
+	this.accountid = accountid;
+}
+
+@Override
+public String toString() {
+	return "account [accountid=" + accountid + ", approve=" + approve + "]";
+}
+
+public boolean isApprove() {
+	return approve;
+}
+
+public void setApprove(boolean approve) {
+	this.approve = approve;
+}
+
+}

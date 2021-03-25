@@ -1,0 +1,246 @@
+package com.OkaneBanku.app.main;
+
+import java.util.Scanner;
+
+import org.apache.log4j.Logger;
+
+import com.OkaneBanku.app.exception.BusinessException;
+import com.OkaneBanku.app.model.customer;
+import com.OkaneBanku.app.service.CustomerService;
+import com.OkaneBanku.app.service.EmployeeService;
+import com.OkaneBanku.app.service.impl.CustomerImpl;
+import com.OkaneBanku.app.service.impl.EmployeeImpl;
+
+public class Main {
+	private static Logger usermessage = Logger.getLogger(Main.class);
+
+	public static void main(String[] args) {
+		usermessage.info("=====================================");
+		usermessage.info("|| Welcome to Okane Banku App V1.0 ||");
+		usermessage.info("=====================================");
+		usermessage.info("");
+
+		int choice = 0;
+		CustomerService customerservice = new CustomerImpl();
+		EmployeeService employeeservice = new EmployeeImpl();
+		Scanner sc = new Scanner(System.in);
+
+		do {
+			usermessage.info(" _________________");
+			usermessage.info("|    Main Menu    |");
+			usermessage.info(" -----------------");
+			usermessage.info("1) Customer Log in");
+			usermessage.info("2) Employee Log in");
+			usermessage.info("2) Create New Account");
+			usermessage.info("3) Exit Application\n");
+
+			try {
+				choice = Integer.parseInt(sc.nextLine());
+				switch (choice) {
+				case 1:
+					String username;
+					String password;
+					usermessage.info("\nEnter username: ");
+					username = sc.nextLine();
+					usermessage.info("\nEnter password: ");
+					password = sc.nextLine();
+					if (username == username && password == password) {
+						int loginchoice = 0;
+						do {
+							usermessage.info("\nCustomer Menu");
+							usermessage.info("==============");
+							usermessage.info("1) Check account balance");
+							usermessage.info("2) Deposit to account balance");
+							usermessage.info("3) Withdraw from account balance");
+							usermessage.info("4) Perform transfer");
+							usermessage.info("5) Check pending transfer");
+							usermessage.info("6) Exit\n");
+							try {
+								usermessage.info("Enter an option between 1 - 6:\n");
+								loginchoice = Integer.parseInt(sc.nextLine());
+								switch (loginchoice) {
+								case 1:
+									usermessage.info("1) Checking");
+									usermessage.info("2) Saving\n");
+									try {
+										int accountchoice = 0;
+										accountchoice = Integer.parseInt(sc.nextLine());
+										if (accountchoice == 1) {
+											customerservice.viewCheckingAcc(customerid);
+										}
+										if (accountchoice == 2) {
+											customerservice.viewSavingAcc(customerid);
+										}
+									} catch (NumberFormatException e) {
+										usermessage
+												.info("Incorrect option... please choose an option between 1 and 2\n");
+									}
+
+									break;
+								case 2:
+									usermessage.info("1) Checking");
+									usermessage.info("2) Saving\n");
+									double deposit = 0.00;
+									try {
+										int accountchoice = 0;
+										accountchoice = Integer.parseInt(sc.nextLine());
+										if (accountchoice == 1) {
+											usermessage.info(
+													"Enter the amount you would like to depsoit to your Checking Account");
+											deposit = Double.parseDouble(sc.nextLine());
+											customerservice.depositChecking(customerid, deposit);
+										}
+										if (accountchoice == 2) {
+											usermessage.info(
+													"Enter the amount you would like to depsoit to your Saving Account");
+											deposit = Double.parseDouble(sc.nextLine());
+											customerservice.depositSaving(customerid, deposit);
+										}
+									} catch (NumberFormatException e) {
+										usermessage
+												.info("Incorrect option... please choose an option between 1 and 2\n");
+									}
+									break;
+								case 3:
+									usermessage.info("1) Checking");
+									usermessage.info("2) Saving\n");
+									double withdraw = 0.00;
+									try {
+										int accountchoice = 0;
+										accountchoice = Integer.parseInt(sc.nextLine());
+										if (accountchoice == 1) {
+											usermessage.info(
+													"Enter the amount you would like to withdraw from your Checking Account");
+											withdraw = Double.parseDouble(sc.nextLine());
+											customerservice.withdrawChecking(customerid, withdraw);
+										}
+										if (accountchoice == 2) {
+											usermessage.info(
+													"Enter the amount you would like to withdraw to your Saving Account");
+											deposit = Double.parseDouble(sc.nextLine());
+											customerservice.depositSaving(customerid, withdraw);
+										}
+									} catch (NumberFormatException e) {
+										usermessage
+												.info("Incorrect option... please choose an option between 1 and 2\n");
+									}
+									break;
+								case 4:
+									usermessage.info("Choose the account you want to transfer money into");
+									usermessage.info("1) Checking");
+									usermessage.info("2) Saving\n");
+									double transfer = 0.00;
+									try {
+										int accountchoice = 0;
+										accountchoice = Integer.parseInt(sc.nextLine());
+										if (accountchoice == 1) {
+											usermessage.info(
+													"Enter the amount you would like to transfer to your Checking Account");
+											transfer = Double.parseDouble(sc.nextLine());
+											customerservice.transferChecking(customerid, transfer);
+										}
+										if (accountchoice == 2) {
+											usermessage.info(
+													"Enter the amount you would like to transfer to your Saving Account");
+											transfer = Double.parseDouble(sc.nextLine());
+											customerservice.transferSaving(customerid, transfer);
+										}
+									} catch (NumberFormatException e) {
+										usermessage
+												.info("Incorrect option... please choose an option between 1 and 2\n");
+									}
+									break;
+								case 5:
+									usermessage.info("Transfers awaiting for approval");
+									break;
+								case 6:
+									usermessage.info("Returning to Main Menu\n");
+									break;
+
+								default:
+									usermessage.info("Invalid option... Please enter an option between 1-6\n");
+									break;
+								}
+							} catch (NumberFormatException e) {
+
+							}
+						} while (loginchoice != 6);
+
+					}
+					break;
+				case 2:
+					String employeeUN = "";
+					String employeePW = "";
+					int loginchoice = 0;
+					usermessage.info("\nEnter username: ");
+					employeeUN = sc.nextLine();
+					usermessage.info("\nEnter password: ");
+					employeePW = sc.nextLine();
+					if (employeeUN == employeeUN && employeePW == employeePW) {
+						do {
+							usermessage.info("*****************");
+							usermessage.info("* Employee Menu *");
+							usermessage.info("*****************");
+							usermessage.info("1) Create customer account");
+							usermessage.info("2) View Accounts");
+							usermessage.info("3) Accept/Reject pending accounts");
+							usermessage.info("4) View logs");
+							usermessage.info("5) Log off\n");
+							try {
+								loginchoice = Integer.parseInt(sc.nextLine());
+								switch (loginchoice) {
+								case 1:
+									try {
+										createcustomer.createCustomer(null);
+									} catch (BusinessException e) {
+
+										e.getMessage();
+									}
+									break;
+								case 2:
+									usermessage.info("List of verified accounts:");
+									employeeservice.getAllverifiedaccounts();
+									break;
+								case 3:
+									usermessage.info("List of accounts awaiting for approval");
+									employeeservice.getAllpendingaccounts();
+									break;
+								case 4:
+									usermessage.info("Current logs");
+									employeeservice.viewLogs(customerid);
+									break;
+								case 5:
+									usermessage.info("Logged off sucessfully");
+									break;
+								default:
+									usermessage.info("Invalid option, please try again");
+									break;
+								}
+
+							} catch (NumberFormatException e) {
+							}
+						} while (loginchoice != 5);
+
+					}
+					break;
+				case 3:
+					try {
+						createcustomer.createCustomer(null);
+					} catch (BusinessException e) {
+						e.getMessage();
+					}
+
+					break;
+				case 4:
+					usermessage.info("\nThank you for choosing Okane Banku to perform your banking needs");
+					break;
+				default:
+					usermessage.info("Invalid selection... Please enter a choice between 1-4 only");
+					break;
+				}
+			} catch (NumberFormatException e) {
+
+			}
+		} while (choice != 3);
+	}
+}
