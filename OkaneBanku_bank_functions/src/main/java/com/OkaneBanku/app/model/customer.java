@@ -115,11 +115,13 @@ public class customer {
 		this.pending = pending;
 	}
 
+	
+
 	@Override
 	public String toString() {
 		return "customer [firstname=" + firstname + ", lastname=" + lastname + ", customerUsername=" + customerUsername
-				+ ", customerPassword=" + customerPassword + ", checkingbalance=" + checkingbalance + ", savingbalance="
-				+ savingbalance + ", accountid=" + accountid + ", pending=" + pending + "]";
+				+ ", customerPassword=" + customerPassword + ", pending=" + pending + ", customerid=" + customerid
+				+ "]";
 	}
 
 	public int getCustomerid() {

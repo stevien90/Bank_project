@@ -1,5 +1,0 @@
-package com.OkaneBanku.app.dao.impl;
-
-public class CustomerCreateDAOImpl {
-
-}

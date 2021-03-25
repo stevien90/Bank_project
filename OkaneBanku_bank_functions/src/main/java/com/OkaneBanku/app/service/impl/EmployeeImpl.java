@@ -24,17 +24,6 @@ public class EmployeeImpl implements EmployeeService{
 		return employeedao.viewLogs(customerid); 
 	}
 
-	@Override
-	public void createCustomer(customer customer) throws BusinessException {
-		employeedao.createCustomer(customer);
-		
-	}
-
-	@Override
-	public void validateCustomer(int customerid, boolean verify) throws BusinessException {
-		employeedao.validateCustomer(customerid, verify);
-		
-	}
 
 	@Override
 	public List<customer> getAllpendingaccounts() throws BusinessException {
@@ -59,5 +48,12 @@ public class EmployeeImpl implements EmployeeService{
 		}
 		return false;
 
+	}
+
+
+	@Override
+	public void validateCustomer(int customerid) throws BusinessException {
+		employeedao.validateCustomer(customerid);
+		
 	}
 }

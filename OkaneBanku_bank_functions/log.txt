@@ -14,7 +14,115 @@
 Enter username: 
 
 Enter password: 
+
+Customer Menu
+==============
+1) Check account balance
+2) Deposit to account balance
+3) Withdraw from account balance
+4) Perform transfer
+5) Check pending transfer
+6) Exit
+
+Enter an option between 1 - 6:
+
+1) Checking
+2) Saving
+
+Enter an option between 1 - 2:
+
+Enter the amount you would like to depsoit to your Checking Account
+1000.0
+
+Customer Menu
+==============
+1) Check account balance
+2) Deposit to account balance
+3) Withdraw from account balance
+4) Perform transfer
+5) Check pending transfer
+6) Exit
+
+Enter an option between 1 - 6:
+
+1) Checking
+2) Saving
+
+Enter an option between 1 - 2:
+
+current balance1000.0
+
+Customer Menu
+==============
+1) Check account balance
+2) Deposit to account balance
+3) Withdraw from account balance
+4) Perform transfer
+5) Check pending transfer
+6) Exit
+
+Enter an option between 1 - 6:
+
+1) Checking
+2) Saving
+
+Enter an option between 1 - 2:
+
+Enter the amount you would like to withdraw from your Checking Account
+
+Customer Menu
+==============
+1) Check account balance
+2) Deposit to account balance
+3) Withdraw from account balance
+4) Perform transfer
+5) Check pending transfer
+6) Exit
+
+Enter an option between 1 - 6:
+
+1) Checking
+2) Saving
+
+Enter an option between 1 - 2:
+
+current balance500.0
+
+Customer Menu
+==============
+1) Check account balance
+2) Deposit to account balance
+3) Withdraw from account balance
+4) Perform transfer
+5) Check pending transfer
+6) Exit
+
+Enter an option between 1 - 6:
+
+1) Transfer Checking Account
+2) Transfer Saving Account
+
+Enter an option between 1 - 2:
+
+Enter the amount you would like to transfer to your Saving Account
 Unable to reach database
+Transfer is now pending
+
+Customer Menu
+==============
+1) Check account balance
+2) Deposit to account balance
+3) Withdraw from account balance
+4) Perform transfer
+5) Check pending transfer
+6) Exit
+
+Enter an option between 1 - 6:
+
+=====================================
+|| Welcome to Okane Banku App V1.0 ||
+=====================================
+
  _________________
 |    Main Menu    |
  -----------------

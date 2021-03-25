@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
-    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.exception.BusinessExcpetion"/>
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
@@ -9,7 +8,6 @@
     <fullyQualifiedTypeName name="com.OkaneBanku.app.dao.impl.CustomerCreateDAOImpl"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.model.customer"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.service.ViewService"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.dao.impl.ViewServiceDAOImpl"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.dao.ViewServiceDao"/>
@@ -17,7 +15,6 @@
     <fullyQualifiedTypeName name="com.OkaneBanku.app.service.CreateService"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.service.impl.CustomerImpl"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.service.CustomerService"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.model.account"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.dao.CustomerDAO"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.dao.impl.CustomerDAOImpl"/>
@@ -26,12 +23,17 @@
     <fullyQualifiedTypeName name="com.OkaneBanku.app.service.EmployeeService"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.service.impl.EmployeeImpl"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="com.OkaneBanku.app.model.employee"/>
+    <fullyQualifiedTypeName name="com.OkaneBanku.app.dao.dbutil.PostgresConnection"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="javax.naming.spi.DirStateFactory.Result"/>
+    <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.service.impl.CustomerValidations"/>
     <fullyQualifiedTypeName name="com.OkaneBanku.app.exception.BusinessException"/>
-    <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
-    <fullyQualifiedTypeName name="java.sql.Statement"/>
-    <fullyQualifiedTypeName name="java.sql.SQLException"/>
-    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
-    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
-    <fullyQualifiedTypeName name="com.OkaneBanku.app.dao.dbutil.PostgresConnection"/>
 </qualifiedTypeNameHistroy>

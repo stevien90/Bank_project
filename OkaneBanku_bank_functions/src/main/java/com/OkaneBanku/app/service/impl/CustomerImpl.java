@@ -1,6 +1,5 @@
 package com.OkaneBanku.app.service.impl;
 
-
 import com.OkaneBanku.app.dao.CustomerDAO;
 
 import com.OkaneBanku.app.dao.impl.CustomerDAOImpl;
@@ -11,40 +10,44 @@ import com.OkaneBanku.app.service.CustomerService;
 public class CustomerImpl implements CustomerService {
 
 	CustomerDAO customerdao = new CustomerDAOImpl();
+
 //finish validations
 	@Override
-	public void createCustomer(customer customer, double checkingbalance, double savingbalance) throws BusinessException {
-		if(!CustomerValidations.isFirstNameValid(customer.getFirstname())){
-			throw new BusinessException("Entered First name" + customer.getFirstname()+" is invalid");
+	public void createCustomer(customer customer, double checkingbalance, double savingbalance)
+			throws BusinessException {
+		if(!CustomerValidations.isFirstNameValid(customer.getFirstname())) {
+			throw new BusinessException("Entered firstname "+ customer.getFirstname()+" is invalid");
 		}
-		if(!CustomerValidations.isLastNameValid(customer.getLastname())){
-			throw new BusinessException("Entered Last name" + customer.getFirstname()+" is invalid");
+		if(!CustomerValidations.isLastNameValid(customer.getLastname())) {
+			throw new BusinessException("Entered lastname "+ customer.getLastname()+" is invalid");
 		}
-		if(!CustomerValidations.isUsernameValid(customer.getCustomerUsername())){
-			throw new BusinessException("Entered username" + customer.getCustomerUsername()+" is invalid");
+		if(!CustomerValidations.isUsernameValid(customer.getCustomerUsername())) {
+			throw new BusinessException("Entered usernamename "+ customer.getCustomerUsername()+" is invalid");
 		}
-		if(!CustomerValidations.isPasswordValid(customer.getCustomerPassword())){
-			throw new BusinessException("Entered password" + customer.getCustomerPassword()+" is invalid");
+		if(!CustomerValidations.isPasswordValid(customer.getCustomerPassword())) {
+			throw new BusinessException("Entered password "+ customer.getCustomerPassword()+" is invalid");
 		}
 		customerdao.createCustomer(customer);
-		customer c = customerdao.logincheck(customer.getCustomerUsername());
-		customerdao.createAccountBalance(checkingbalance, savingbalance, c.getCustomerid());
+		customer customerusername = customerdao.logincheck(customer.getCustomerUsername());
+		customerdao.createAccountBalance(checkingbalance, savingbalance, customerusername.getCustomerid());
 	}
 
 	@Override
 	public double viewSavingAcc(int customerid) throws BusinessException {
-
+		
+		
 		return customerdao.viewSavingAcc(customerid);
 	}
 
 	@Override
 	public double viewCheckingAcc(int customerid) throws BusinessException {
-
+		
 		return customerdao.viewCheckingAcc(customerid);
 	}
 
 	@Override
 	public double withdrawChecking(int customerid, double withdraw) throws BusinessException {
+		
 		if (withdraw > customerdao.viewCheckingAcc(customerid)) {
 			throw new BusinessException("Entered amount: " + withdraw + " is invalid");
 		}
@@ -53,6 +56,7 @@ public class CustomerImpl implements CustomerService {
 
 	@Override
 	public double withdrawSaving(int customerid, double withdraw) throws BusinessException {
+		
 		if (withdraw > customerdao.viewSavingAcc(customerid)) {
 			throw new BusinessException("Entered amount: " + withdraw + " is invalid");
 		}
@@ -61,6 +65,7 @@ public class CustomerImpl implements CustomerService {
 
 	@Override
 	public double depositChecking(int customerid, double deposit) throws BusinessException {
+	
 		if (deposit <= 0) {
 			throw new BusinessException("Entered amount: " + deposit + " is invalid");
 		}
@@ -69,6 +74,7 @@ public class CustomerImpl implements CustomerService {
 
 	@Override
 	public double depositSaving(int customerid, double deposit) throws BusinessException {
+		
 		if (deposit <= 0) {
 			throw new BusinessException("Entered amount: " + deposit + " is invalid");
 		}
@@ -111,6 +117,7 @@ public class CustomerImpl implements CustomerService {
 
 	}
 
+	// NOT INITIALIZED DEBUGGING REQUIRED
 	@Override
 	public void addPendingTransfer(int customerid, double transfer) throws BusinessException {
 		if (transfer <= 0) {
@@ -119,27 +126,30 @@ public class CustomerImpl implements CustomerService {
 		customerdao.addPendingTransfer(customerid, transfer);
 	}
 
+	// NOT INITIALIZED DEBUGGING REQUIRED
 	@Override
 	public double viewPendingTransfer(int customerid) throws BusinessException {
-		
+
 		return customerdao.viewPendingTransfer(customerid);
 	}
 
+	// NOT INITIALIZED DEBUGGING REQUIRED
 	@Override
 	public boolean approvePendingTransfer(int customerid) throws BusinessException {
-		
+
 		return customerdao.approvePendingTransfer(customerid);
 	}
 
+	// NOT INITIALIZED DEBUGGING REQUIRED
 	@Override
 	public boolean deleteTransfer(int customerid) throws BusinessException {
-		
+
 		return customerdao.deleteTransfer(customerid);
 	}
 
 	@Override
 	public customer retrieveCustomer(String username) throws BusinessException {
-		
+
 		return customerdao.logincheck(username);
 	}
 

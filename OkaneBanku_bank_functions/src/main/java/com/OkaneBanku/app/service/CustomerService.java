@@ -16,11 +16,10 @@ public interface CustomerService {
 	public double transferChecking(int customerid, double transfer) throws BusinessException;
 	public double transferSaving(int customerid, double transfer) throws BusinessException;
 	public boolean logincheck(String username, String password) throws BusinessException; 
-	public void addPendingTransfer(int customerid, double transfer) throws BusinessException;
-	public double viewPendingTransfer(int customerid) throws BusinessException;
-	public boolean approvePendingTransfer(int customerid) throws BusinessException;
-	public boolean deleteTransfer(int customerid) throws BusinessException;
+	public void addPendingTransfer(int customerid, double transfer) throws BusinessException;//NOT INITIALIZED DEBUGGING REQUIRED
+	public double viewPendingTransfer(int customerid) throws BusinessException;//NOT INITIALIZED DEBUGGING REQUIRED
+	public boolean approvePendingTransfer(int customerid) throws BusinessException;//NOT INITIALIZED DEBUGGING REQUIRED
+	public boolean deleteTransfer(int customerid) throws BusinessException;//NOT INITIALIZED DEBUGGING REQUIRED
 	public customer retrieveCustomer(String username) throws BusinessException;
 	
-
 }

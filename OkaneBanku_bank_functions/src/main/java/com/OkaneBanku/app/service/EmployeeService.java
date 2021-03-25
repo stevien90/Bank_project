@@ -8,9 +8,8 @@ import com.OkaneBanku.app.model.transaction;
 
 
 public interface EmployeeService {
-	public List<transaction> viewLogs(int customerid) throws BusinessException;
-	public void createCustomer(customer customer) throws BusinessException;
-	public void validateCustomer(int customerid, boolean verify) throws BusinessException;//false to true
+	public List<transaction> viewLogs(int customerid) throws BusinessException; //UNDER CONSTRUCTION
+	public void validateCustomer(int customerid) throws BusinessException;
 	public List<customer> getAllpendingaccounts() throws BusinessException;
 	public List<customer> getAllverifiedaccounts() throws BusinessException;
 	public boolean logincheck(String username, String password) throws BusinessException;

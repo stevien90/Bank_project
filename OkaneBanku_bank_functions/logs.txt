@@ -1,0 +1,2523 @@
+2021-03-25 03:10:21 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 03:10:21 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 03:10:21 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 03:10:21 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 03:10:21 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 03:10:21 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 03:10:21 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 03:10:21 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 03:10:21 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 03:10:21 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 03:10:21 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 03:35:33 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 03:35:33 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 03:35:33 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 03:35:33 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 03:35:33 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 03:35:33 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 03:35:33 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 03:35:33 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 03:35:33 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 03:35:33 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 03:35:33 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 03:35:43 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 03:35:46 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 03:35:47 INFO com.OkaneBanku.app.main.Main - 
+Customer Menu
+2021-03-25 03:35:47 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 03:35:47 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 03:35:47 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 03:35:47 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 03:35:47 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 03:35:47 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 03:35:47 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 03:35:47 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 6:
+
+2021-03-25 03:36:02 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 03:36:02 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 03:36:02 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+
+2021-03-25 03:37:39 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 03:37:39 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 03:37:39 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 03:37:39 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 03:37:39 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 03:37:39 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 03:37:39 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 03:37:39 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 03:37:39 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 03:37:39 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 03:37:39 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 03:37:42 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 03:37:44 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 03:37:45 INFO com.OkaneBanku.app.main.Main - 
+Customer Menu
+2021-03-25 03:37:45 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 03:37:45 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 03:37:45 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 03:37:45 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 03:37:45 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 03:37:45 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 03:37:45 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 03:37:45 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 03:37:53 INFO com.OkaneBanku.app.main.Main - 
+1) Checking
+2021-03-25 03:37:53 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 03:37:53 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+
+2021-03-25 03:37:56 INFO com.OkaneBanku.app.main.Main - current balance500.0
+2021-03-25 03:37:56 INFO com.OkaneBanku.app.main.Main - 
+Customer Menu
+2021-03-25 03:37:56 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 03:37:56 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 03:37:56 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 03:37:56 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 03:37:56 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 03:37:56 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 03:37:56 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 03:37:56 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 03:39:16 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 03:39:16 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 03:39:16 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 03:39:16 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 03:39:16 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 03:39:16 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 03:39:16 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 03:39:16 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 03:39:16 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 03:39:16 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 03:39:16 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 03:39:19 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 03:39:21 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 03:39:22 INFO com.OkaneBanku.app.main.Main - 
+Customer Menu
+2021-03-25 03:39:22 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 03:39:22 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 03:39:22 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 03:39:22 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 03:39:22 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 03:39:22 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 03:39:22 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 03:39:22 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 03:39:24 INFO com.OkaneBanku.app.main.Main - 
+1) Checking
+2021-03-25 03:39:24 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 03:39:24 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 03:39:46 INFO com.OkaneBanku.app.main.Main - 
+Current balance: $500.0
+2021-03-25 03:39:46 INFO com.OkaneBanku.app.main.Main - 
+Customer Menu
+2021-03-25 03:39:46 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 03:39:46 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 03:39:46 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 03:39:46 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 03:39:46 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 03:39:46 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 03:39:46 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 03:39:46 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 03:41:31 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 03:41:31 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 03:41:31 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 03:41:31 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 03:41:31 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 03:41:31 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 03:41:31 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 03:41:31 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 03:41:31 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 03:41:31 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 03:41:31 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 03:41:33 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 03:41:34 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 03:41:36 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 03:41:36 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 03:41:36 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 03:41:36 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 03:41:36 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 03:41:36 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 03:41:36 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 03:41:36 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 03:41:36 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 03:41:36 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 03:41:39 INFO com.OkaneBanku.app.main.Main - 
+Account
+2021-03-25 03:41:39 INFO com.OkaneBanku.app.main.Main - --------------
+2021-03-25 03:41:39 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 03:41:39 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 03:41:39 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 03:42:23 INFO com.OkaneBanku.app.main.Main - 
+Current balance: $500.0
+2021-03-25 03:42:23 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 03:42:23 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 03:42:23 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 03:42:23 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 03:42:23 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 03:42:23 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 03:42:23 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 03:42:23 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 03:42:23 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 03:42:23 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 03:45:16 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 03:45:16 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 03:45:16 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+
+2021-03-25 03:45:56 INFO com.OkaneBanku.app.main.Main - Enter the amount you would like to depsoit to your Checking Account
+2021-03-25 03:46:14 INFO com.OkaneBanku.app.main.Main - 1000.0
+2021-03-25 03:46:14 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 03:46:14 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 03:46:14 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 03:46:14 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 03:46:14 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 03:46:14 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 03:46:14 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 03:46:14 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 03:46:14 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 03:46:14 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 03:48:29 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 03:48:29 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 03:48:29 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+
+2021-03-25 03:48:35 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 03:48:35 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 03:48:35 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 03:48:35 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 03:48:35 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 03:48:35 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 03:48:35 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 03:48:35 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 03:48:35 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 03:48:35 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 03:49:07 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 03:49:07 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 03:49:07 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+
+2021-03-25 03:49:08 INFO com.OkaneBanku.app.main.Main - Enter the amount you would like to withdraw from your Checking Account
+2021-03-25 03:49:13 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 03:49:13 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 03:49:13 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 03:49:13 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 03:49:13 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 03:49:13 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 03:49:13 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 03:49:13 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 03:49:13 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 03:49:13 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 03:49:24 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 03:49:24 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 03:49:24 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+
+2021-03-25 03:49:25 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 03:49:25 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 03:49:25 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 03:49:25 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 03:49:25 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 03:49:25 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 03:49:25 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 03:49:25 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 03:49:25 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 03:49:25 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:18:03 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:18:03 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 04:18:03 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:18:03 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 04:18:03 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 04:18:03 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 04:18:03 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 04:18:03 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 04:18:03 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 04:18:03 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 04:18:03 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 04:18:06 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 04:18:08 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 04:18:10 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:18:10 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:18:10 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:18:10 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:18:10 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:18:10 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:18:10 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:18:10 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:18:10 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:18:10 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:18:14 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 04:18:14 INFO com.OkaneBanku.app.main.Main - -----------
+2021-03-25 04:18:14 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 04:18:14 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 04:18:14 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 04:19:22 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:19:22 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 04:19:22 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:19:22 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 04:19:22 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 04:19:22 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 04:19:22 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 04:19:22 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 04:19:22 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 04:19:22 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 04:19:22 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 04:19:26 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 04:19:27 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 04:19:29 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:19:29 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:19:29 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:19:29 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:19:29 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:19:29 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:19:29 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:19:29 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:19:29 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:19:29 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:19:30 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 04:19:30 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 04:19:30 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 04:19:30 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 04:19:30 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 04:19:32 INFO com.OkaneBanku.app.main.Main - 
+Current Balance: $990.0
+2021-03-25 04:19:32 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:19:32 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:19:32 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:19:32 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:19:32 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:19:32 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:19:32 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:19:32 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:19:32 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:19:32 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:19:37 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 04:19:37 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 04:19:37 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 04:19:37 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 04:19:37 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 04:19:39 INFO com.OkaneBanku.app.main.Main - 
+Current balance: $0.0
+2021-03-25 04:19:39 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:19:39 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:19:39 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:19:39 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:19:39 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:19:39 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:19:39 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:19:39 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:19:39 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:19:39 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:19:43 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 04:19:43 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 04:19:43 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 04:19:43 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 04:19:43 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 04:19:45 INFO com.OkaneBanku.app.main.Main - Enter the amount you would like to depsoit to your Saving Account
+2021-03-25 04:19:48 INFO com.OkaneBanku.app.main.Main - 
+ New Saving balance: $10.0
+2021-03-25 04:19:48 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:19:48 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:19:48 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:19:48 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:19:48 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:19:48 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:19:48 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:19:48 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:19:48 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:19:48 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:20:37 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 04:20:37 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 04:20:37 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 04:20:37 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 04:20:37 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 04:20:39 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $990.0
+2021-03-25 04:20:39 INFO com.OkaneBanku.app.main.Main - 
+Enter the amount you would like to withdraw from your Checking Account
+2021-03-25 04:20:43 INFO com.OkaneBanku.app.main.Main - New Checking balance: $890.0
+2021-03-25 04:20:43 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:20:43 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:20:43 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:20:43 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:20:43 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:20:43 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:20:43 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:20:43 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:20:43 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:20:43 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:20:57 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 04:20:57 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 04:20:57 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 04:20:57 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 04:20:57 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 04:20:59 INFO com.OkaneBanku.app.main.Main - Current Saving balance: $10.0
+2021-03-25 04:20:59 INFO com.OkaneBanku.app.main.Main - 
+Enter the amount you would like to withdraw from your Saving Account
+2021-03-25 04:21:01 INFO com.OkaneBanku.app.main.Main - New Saving balance: $5.0
+2021-03-25 04:21:01 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:21:01 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:21:01 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:21:01 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:21:01 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:21:01 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:21:01 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:21:01 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:21:01 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:21:01 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:21:05 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 04:21:05 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 04:21:05 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 04:21:05 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 04:21:05 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 04:21:12 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $890.0
+2021-03-25 04:21:12 INFO com.OkaneBanku.app.main.Main - Enter the amount you would like to transfer to your Saving Account
+2021-03-25 04:21:15 ERROR com.OkaneBanku.app.main.Main - Unable to reach database
+2021-03-25 04:21:15 INFO com.OkaneBanku.app.main.Main - Transfer is now pending
+2021-03-25 04:21:15 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:21:15 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:21:15 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:21:15 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:21:15 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:21:15 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:21:15 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:21:15 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:21:15 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:21:15 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:21:22 INFO com.OkaneBanku.app.main.Main - Pending transactions: 
+2021-03-25 04:21:22 ERROR com.OkaneBanku.app.main.Main - Contact Sys Admin
+2021-03-25 04:21:22 INFO com.OkaneBanku.app.main.Main - __________________
+2021-03-25 04:21:22 INFO com.OkaneBanku.app.main.Main - 1) Accept
+2021-03-25 04:21:22 INFO com.OkaneBanku.app.main.Main - 2) Decline
+2021-03-25 04:21:22 INFO com.OkaneBanku.app.main.Main - Enter an option above
+2021-03-25 04:21:36 ERROR com.OkaneBanku.app.main.Main - Contact Sys Admin
+2021-03-25 04:21:36 INFO com.OkaneBanku.app.main.Main - Transfer Denied
+2021-03-25 04:21:36 INFO com.OkaneBanku.app.main.Main - Returning to Main Menu
+
+2021-03-25 04:21:36 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:21:36 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:21:36 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:21:36 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:21:36 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:21:36 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:21:36 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:21:36 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:21:36 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:21:36 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:22:14 INFO com.OkaneBanku.app.main.Main - Returning to Main Menu
+
+2021-03-25 04:22:14 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 04:22:14 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 04:22:14 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 04:22:14 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 04:22:14 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 04:22:14 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 04:22:14 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 04:22:16 INFO com.OkaneBanku.app.main.Main - 
+Thank you for choosing Okane Banku to perform your banking needs
+2021-03-25 04:24:33 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:24:33 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 04:24:33 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:24:33 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 04:24:34 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 04:24:34 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 04:24:34 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 04:24:34 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 04:24:34 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 04:24:34 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 04:24:34 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 04:24:38 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 04:24:39 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 04:24:40 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:24:40 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:24:40 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:24:40 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:24:40 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:24:40 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:24:40 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:24:40 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:24:40 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:24:40 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:24:44 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 04:24:44 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 04:24:44 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 04:24:44 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 04:24:44 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 04:24:46 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $890.0
+2021-03-25 04:24:46 INFO com.OkaneBanku.app.main.Main - Enter the amount you would like to transfer to your Saving Account
+2021-03-25 04:24:50 ERROR com.OkaneBanku.app.main.Main - Unable to reach database
+2021-03-25 04:24:50 INFO com.OkaneBanku.app.main.Main - Transfer is now pending
+2021-03-25 04:24:50 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:24:50 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:24:50 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:24:50 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:24:50 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:24:50 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:24:50 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:24:50 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:24:50 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:24:50 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:25:52 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:25:52 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 04:25:52 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:25:52 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 04:25:52 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 04:25:52 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 04:25:52 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 04:25:52 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 04:25:52 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 04:25:52 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 04:25:52 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 04:25:54 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 04:25:57 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 04:25:59 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:25:59 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:25:59 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:25:59 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:25:59 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:25:59 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:25:59 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:25:59 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:25:59 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:25:59 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:26:53 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 04:26:53 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 04:26:53 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 04:26:53 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 04:26:53 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 04:26:55 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $890.0
+2021-03-25 04:26:55 INFO com.OkaneBanku.app.main.Main - Enter the amount you would like to transfer to your Saving Account
+2021-03-25 04:26:57 ERROR com.OkaneBanku.app.main.Main - Unable to reach database
+2021-03-25 04:26:57 INFO com.OkaneBanku.app.main.Main - Transfer is now pending
+2021-03-25 04:26:57 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:26:57 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:26:57 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:26:57 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:26:57 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:26:57 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:26:57 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:26:57 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:26:57 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:26:57 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:40:14 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:40:14 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 04:40:14 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:40:14 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 04:40:14 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 04:40:14 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 04:40:14 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 04:40:14 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 04:40:14 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 04:40:14 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 04:40:14 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 04:40:14 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 04:40:19 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 04:40:21 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 04:40:23 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:40:23 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:40:23 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:40:23 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:40:23 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:40:23 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:40:23 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:40:23 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:40:23 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:40:23 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:40:32 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 04:40:32 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 04:40:32 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 04:40:32 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 04:40:32 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 04:40:34 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $890.0
+2021-03-25 04:40:34 INFO com.OkaneBanku.app.main.Main - Enter the amount you would like to transfer to your Saving Account
+2021-03-25 04:40:35 ERROR com.OkaneBanku.app.main.Main - Contact Sys Admin
+2021-03-25 04:40:35 INFO com.OkaneBanku.app.main.Main - Transfer is now pending
+2021-03-25 04:40:35 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:40:35 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:40:35 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:40:35 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:40:35 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:40:35 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:40:35 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:40:35 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:40:35 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:40:35 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:40:54 INFO com.OkaneBanku.app.main.Main - Pending transactions: 
+2021-03-25 04:40:54 INFO com.OkaneBanku.app.main.Main - __________________
+2021-03-25 04:40:54 INFO com.OkaneBanku.app.main.Main - 1) Accept
+2021-03-25 04:40:54 INFO com.OkaneBanku.app.main.Main - 2) Decline
+2021-03-25 04:40:54 INFO com.OkaneBanku.app.main.Main - Enter an option above
+2021-03-25 04:41:02 ERROR com.OkaneBanku.app.main.Main - Contact Sys Admin
+2021-03-25 04:41:02 INFO com.OkaneBanku.app.main.Main - Transfer Success
+2021-03-25 04:41:02 INFO com.OkaneBanku.app.main.Main - Returning to Main Menu
+
+2021-03-25 04:41:02 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:41:02 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:41:02 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:41:02 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:41:02 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:41:02 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:41:02 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:41:02 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:41:02 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:41:02 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:42:13 INFO com.OkaneBanku.app.main.Main - Returning to Main Menu
+
+2021-03-25 04:42:13 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 04:42:13 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 04:42:13 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 04:42:13 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 04:42:13 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 04:42:13 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 04:42:13 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 04:42:13 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 04:43:13 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:43:13 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 04:43:13 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:43:13 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 04:43:13 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 04:43:13 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 04:43:13 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 04:43:13 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 04:43:13 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 04:43:13 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 04:43:13 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 04:43:13 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 04:43:14 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 04:43:14 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 04:43:14 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 04:43:14 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 04:43:14 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 04:43:14 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 04:43:14 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 04:43:14 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 04:43:17 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 04:43:22 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 04:43:24 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:43:24 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:43:24 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:43:24 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:43:24 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:43:24 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:43:24 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:43:24 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:43:24 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:43:24 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:43:26 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 04:43:26 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 04:43:26 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 04:43:26 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 04:43:26 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 04:43:29 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $890.0
+2021-03-25 04:43:29 INFO com.OkaneBanku.app.main.Main - Enter the amount you would like to transfer to your Saving Account
+2021-03-25 04:43:31 ERROR com.OkaneBanku.app.main.Main - Contact Sys Admin
+2021-03-25 04:43:31 INFO com.OkaneBanku.app.main.Main - Transfer is now pending
+2021-03-25 04:43:31 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:43:31 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:43:31 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:43:31 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:43:31 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:43:31 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:43:31 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:43:31 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:43:31 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:43:31 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:45:14 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:45:14 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 04:45:14 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:45:14 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 04:45:14 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 04:45:14 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 04:45:14 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 04:45:14 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 04:45:14 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 04:45:14 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 04:45:14 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 04:45:14 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 04:45:19 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 04:45:21 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 04:45:22 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:45:22 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:45:22 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:45:22 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:45:22 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:45:22 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:45:22 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:45:22 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:45:22 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:45:22 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:45:39 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 04:45:39 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 04:45:39 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 04:45:39 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 04:45:39 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 04:45:41 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $890.0
+2021-03-25 04:45:41 INFO com.OkaneBanku.app.main.Main - Enter the amount you would like to transfer to your Saving Account
+2021-03-25 04:45:43 ERROR com.OkaneBanku.app.main.Main - Contact Sys Admin
+2021-03-25 04:45:43 INFO com.OkaneBanku.app.main.Main - Transfer is now pending
+2021-03-25 04:45:43 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:45:43 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:45:43 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:45:43 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:45:43 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:45:43 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:45:43 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:45:43 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:45:43 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:45:43 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:46:04 INFO com.OkaneBanku.app.main.Main - Pending transactions: 
+2021-03-25 04:46:04 INFO com.OkaneBanku.app.main.Main - __________________
+2021-03-25 04:46:04 INFO com.OkaneBanku.app.main.Main - 1) Accept
+2021-03-25 04:46:04 INFO com.OkaneBanku.app.main.Main - 2) Decline
+2021-03-25 04:46:04 INFO com.OkaneBanku.app.main.Main - Enter an option above
+2021-03-25 04:46:06 ERROR com.OkaneBanku.app.main.Main - Contact Sys Admin
+2021-03-25 04:46:06 INFO com.OkaneBanku.app.main.Main - Transfer Success
+2021-03-25 04:46:06 INFO com.OkaneBanku.app.main.Main - Returning to Main Menu
+
+2021-03-25 04:46:06 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:46:06 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:46:06 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:46:06 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:46:06 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:46:06 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:46:06 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:46:06 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:46:06 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:46:06 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:56:30 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:56:30 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 04:56:30 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:56:30 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 04:56:30 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 04:56:30 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 04:56:30 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 04:56:30 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 04:56:30 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 04:56:30 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 04:56:30 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 04:56:30 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 04:56:35 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 04:56:38 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 04:56:41 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 04:56:41 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 04:56:41 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 04:56:41 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 04:56:41 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 04:56:41 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 04:56:41 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 04:56:41 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 04:56:42 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 04:56:44 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 04:56:45 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:56:45 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:56:45 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:56:45 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:56:45 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:56:45 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:56:45 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:56:45 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:56:45 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:56:45 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 04:58:56 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:58:56 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 04:58:56 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 04:58:56 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 04:58:56 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 04:58:56 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 04:58:56 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 04:58:56 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 04:58:56 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 04:58:56 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 04:58:56 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 04:58:56 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 04:58:58 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 04:58:59 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 04:59:00 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 04:59:00 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 04:59:00 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 04:59:00 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 04:59:00 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 04:59:00 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 04:59:00 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 04:59:00 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 04:59:52 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 04:59:54 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 04:59:55 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 04:59:55 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 04:59:55 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 04:59:55 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 04:59:55 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 04:59:55 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 04:59:55 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 04:59:55 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 04:59:55 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 04:59:55 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:00:20 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:00:20 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:00:20 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 05:00:20 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 05:00:20 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 05:00:21 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $890.0
+2021-03-25 05:00:21 INFO com.OkaneBanku.app.main.Main - Enter the amount you would like to transfer to your Saving Account
+2021-03-25 05:00:23 ERROR com.OkaneBanku.app.main.Main - Contact Sys Admin
+2021-03-25 05:00:23 INFO com.OkaneBanku.app.main.Main - Transfer is now pending
+2021-03-25 05:00:23 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:00:23 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:00:23 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:00:23 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:00:23 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:00:23 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:00:23 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:00:23 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:00:23 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:00:23 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:07:35 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 05:07:35 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 05:07:35 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 05:07:35 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 05:07:35 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 05:07:35 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 05:07:35 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 05:07:35 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 05:07:35 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 05:07:35 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 05:07:35 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 05:07:35 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 05:07:38 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 05:07:40 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 05:07:41 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:07:41 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:07:41 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:07:41 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:07:41 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:07:41 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:07:41 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:07:41 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:07:41 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:07:41 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:07:45 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:07:45 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:07:45 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 05:07:45 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 05:07:45 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 05:07:47 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $890.0
+2021-03-25 05:07:47 INFO com.OkaneBanku.app.main.Main - Enter the amount you would like to transfer to your Saving Account
+2021-03-25 05:07:49 INFO com.OkaneBanku.app.main.Main - Transfer is now pending
+2021-03-25 05:07:49 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:07:49 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:07:49 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:07:49 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:07:49 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:07:49 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:07:49 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:07:49 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:07:49 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:07:49 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:09:22 INFO com.OkaneBanku.app.main.Main - Pending transactions: 
+2021-03-25 05:09:22 INFO com.OkaneBanku.app.main.Main - __________________
+2021-03-25 05:09:22 INFO com.OkaneBanku.app.main.Main - 1) Accept
+2021-03-25 05:09:22 INFO com.OkaneBanku.app.main.Main - 2) Decline
+2021-03-25 05:09:22 INFO com.OkaneBanku.app.main.Main - Enter an option above
+2021-03-25 05:09:24 INFO com.OkaneBanku.app.main.Main - Transfer Success
+2021-03-25 05:09:24 INFO com.OkaneBanku.app.main.Main - Returning to Main Menu
+
+2021-03-25 05:09:24 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:09:24 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:09:24 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:09:24 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:09:24 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:09:24 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:09:24 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:09:24 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:09:24 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:09:24 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:09:30 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:09:30 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:09:30 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 05:09:30 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 05:09:30 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 05:09:31 INFO com.OkaneBanku.app.main.Main - 
+Current balance: $5.0
+2021-03-25 05:09:31 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:09:31 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:09:31 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:09:31 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:09:31 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:09:31 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:09:31 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:09:31 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:09:31 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:09:31 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:09:44 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:09:44 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:09:44 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 05:09:44 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 05:09:44 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 05:09:45 INFO com.OkaneBanku.app.main.Main - 
+Current Balance: $890.0
+2021-03-25 05:09:45 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:09:45 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:09:45 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:09:45 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:09:45 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:09:45 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:09:45 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:09:45 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:09:45 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:09:45 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:10:05 INFO com.OkaneBanku.app.main.Main - Pending transactions: 
+2021-03-25 05:10:05 INFO com.OkaneBanku.app.main.Main - __________________
+2021-03-25 05:10:05 INFO com.OkaneBanku.app.main.Main - 1) Accept
+2021-03-25 05:10:05 INFO com.OkaneBanku.app.main.Main - 2) Decline
+2021-03-25 05:10:05 INFO com.OkaneBanku.app.main.Main - Enter an option above
+2021-03-25 05:10:12 ERROR com.OkaneBanku.app.main.Main - Contact Sys Admin
+2021-03-25 05:10:12 INFO com.OkaneBanku.app.main.Main - Transfer Denied
+2021-03-25 05:10:12 INFO com.OkaneBanku.app.main.Main - Returning to Main Menu
+
+2021-03-25 05:10:12 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:10:12 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:10:12 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:10:12 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:10:12 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:10:12 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:10:12 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:10:12 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:10:12 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:10:12 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:28:17 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 05:28:17 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 05:28:17 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 05:28:17 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 05:28:17 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 05:28:17 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 05:28:17 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 05:28:17 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 05:28:17 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 05:28:17 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 05:28:17 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 05:28:17 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 05:28:26 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 05:28:27 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 05:28:29 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:28:29 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:28:29 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:28:29 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:28:29 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:28:29 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:28:29 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:28:29 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:28:29 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:28:29 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:28:34 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:28:34 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:28:34 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 05:28:34 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 05:28:34 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 05:28:35 INFO com.OkaneBanku.app.main.Main - 
+Current Balance: $890.0
+2021-03-25 05:28:35 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:28:35 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:28:35 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:28:35 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:28:35 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:28:35 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:28:35 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:28:35 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:28:35 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:28:35 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:28:39 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:28:39 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:28:39 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 05:28:39 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 05:28:39 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 05:28:41 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $890.0
+2021-03-25 05:28:41 INFO com.OkaneBanku.app.main.Main - 
+Enter the amount you would like to transfer to your Saving Account: 
+2021-03-25 05:28:42 INFO com.OkaneBanku.app.main.Main - 
+*Transfer Success
+2021-03-25 05:28:42 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:28:42 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:28:42 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:28:42 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:28:42 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:28:42 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:28:42 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:28:42 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:28:42 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:28:42 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:29:01 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:29:01 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:29:01 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 05:29:01 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 05:29:01 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 05:29:02 INFO com.OkaneBanku.app.main.Main - 
+Current balance: $5.0
+2021-03-25 05:29:02 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:29:02 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:29:02 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:29:02 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:29:02 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:29:02 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:29:02 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:29:02 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:29:02 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:29:02 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:29:09 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:29:09 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:29:09 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 05:29:09 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 05:29:09 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 05:29:11 INFO com.OkaneBanku.app.main.Main - 
+Current Balance: $790.0
+2021-03-25 05:29:11 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:29:11 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:29:11 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:29:11 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:29:11 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:29:11 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:29:11 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:29:11 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:29:11 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:29:11 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:29:33 INFO com.OkaneBanku.app.main.Main - Invalid option... Please enter an option between 1-6
+
+2021-03-25 05:29:33 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:29:33 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:29:33 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:29:33 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:29:33 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:29:33 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:29:33 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:29:33 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:29:33 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:29:33 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:29:36 INFO com.OkaneBanku.app.main.Main - Returning to Main Menu
+
+2021-03-25 05:29:36 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 05:29:36 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 05:29:36 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 05:29:36 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 05:29:36 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 05:29:36 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 05:29:36 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 05:29:36 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 05:29:38 INFO com.OkaneBanku.app.main.Main - 
+Thank you for choosing Okane Banku to perform your banking needs
+2021-03-25 05:33:04 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 05:33:04 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 05:33:04 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 05:33:04 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 05:33:04 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 05:33:04 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 05:33:04 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 05:33:04 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 05:33:04 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 05:33:04 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 05:33:04 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 05:33:04 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 05:33:10 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 05:33:11 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 05:33:13 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:33:13 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:33:13 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:33:13 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:33:13 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:33:13 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:33:13 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:33:13 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:33:13 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:33:13 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:33:20 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:33:20 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:33:20 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 05:33:20 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 05:33:20 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 05:33:21 INFO com.OkaneBanku.app.main.Main - Current Saving balance: $5.0
+2021-03-25 05:33:21 INFO com.OkaneBanku.app.main.Main - 
+Enter the amount you would like to transfer to your Checking Account:
+2021-03-25 05:33:23 INFO com.OkaneBanku.app.main.Main - 
+*Transfer Success
+2021-03-25 05:33:23 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:33:23 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:33:23 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:33:23 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:33:23 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:33:23 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:33:23 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:33:23 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:33:23 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:33:23 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:33:25 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:33:25 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:33:25 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 05:33:25 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 05:33:25 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 05:33:26 INFO com.OkaneBanku.app.main.Main - 
+Current Balance: $790.0
+2021-03-25 05:33:26 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:33:26 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:33:26 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:33:26 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:33:26 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:33:26 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:33:26 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:33:26 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:33:26 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:33:26 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:33:41 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:33:41 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:33:41 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 05:33:41 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 05:33:41 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 05:33:42 INFO com.OkaneBanku.app.main.Main - 
+Current balance: $0.0
+2021-03-25 05:33:42 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:33:42 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:33:42 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:33:42 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:33:42 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:33:42 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:33:42 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:33:42 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:33:42 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:33:42 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:47:06 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 05:47:06 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 05:47:06 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 05:47:06 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 05:47:06 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 05:47:06 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 05:47:06 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 05:47:06 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 05:47:06 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 05:47:06 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 05:47:06 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 05:47:06 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 05:47:10 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 05:47:11 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 05:47:12 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:47:12 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:47:12 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:47:12 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:47:12 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:47:12 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:47:12 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:47:12 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:47:12 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:47:12 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:47:16 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:47:16 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:47:16 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 05:47:16 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 05:47:16 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 05:47:17 INFO com.OkaneBanku.app.main.Main - Enter the amount you would like to depsoit to your Saving Account
+2021-03-25 05:47:21 INFO com.OkaneBanku.app.main.Main - 
+New Saving balance: $1000.0
+2021-03-25 05:47:21 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:47:21 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:47:21 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:47:21 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:47:21 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:47:21 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:47:21 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:47:21 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:47:21 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:47:21 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:47:23 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:47:23 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:47:23 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 05:47:23 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 05:47:23 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 05:47:24 INFO com.OkaneBanku.app.main.Main - 
+Current balance: $1000.0
+2021-03-25 05:47:24 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:47:24 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:47:24 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:47:24 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:47:24 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:47:24 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:47:24 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:47:24 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:47:24 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:47:24 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:53:55 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 05:53:55 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 05:53:55 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 05:53:55 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 05:53:55 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 05:53:55 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 05:53:55 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 05:53:55 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 05:53:55 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 05:53:55 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 05:53:55 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 05:53:55 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 05:54:04 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 05:54:06 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 05:54:07 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:54:07 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:54:07 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:54:07 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:54:07 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:54:07 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:54:07 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:54:07 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:54:07 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:54:07 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:54:46 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:54:46 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:54:46 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 05:54:46 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 05:54:46 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 05:54:48 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $790.0
+2021-03-25 05:54:48 INFO com.OkaneBanku.app.main.Main - 
+Enter the amount you would like to transfer to your Saving Account: 
+2021-03-25 05:54:51 INFO com.OkaneBanku.app.main.Main - 
+*Transfer Success
+2021-03-25 05:54:51 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:54:51 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:54:51 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:54:51 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:54:51 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:54:51 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:54:51 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:54:51 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:54:51 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:54:51 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:54:57 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:54:57 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:54:57 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 05:54:57 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 05:54:57 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 05:54:59 INFO com.OkaneBanku.app.main.Main - 
+Current balance: $1000.0
+2021-03-25 05:54:59 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:54:59 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:54:59 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:54:59 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:54:59 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:54:59 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:54:59 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:54:59 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:54:59 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:54:59 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:55:10 INFO com.OkaneBanku.app.main.Main - Invalid option... Please enter an option between 1-6
+
+2021-03-25 05:55:10 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:55:10 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:55:10 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:55:10 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:55:10 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:55:10 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:55:10 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:55:10 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:55:10 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:55:10 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:55:12 INFO com.OkaneBanku.app.main.Main - Invalid option... Please enter an option between 1-6
+
+2021-03-25 05:55:12 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:55:12 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:55:12 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:55:12 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:55:12 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:55:12 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:55:12 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:55:12 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:55:12 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:55:12 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:55:13 INFO com.OkaneBanku.app.main.Main - Invalid option... Please enter an option between 1-6
+
+2021-03-25 05:55:13 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:55:13 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:55:13 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:55:13 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:55:13 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:55:13 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:55:13 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:55:13 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:55:13 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:55:13 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:55:15 INFO com.OkaneBanku.app.main.Main - Returning to Main Menu
+
+2021-03-25 05:55:15 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 05:55:15 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 05:55:15 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 05:55:15 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 05:55:15 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 05:55:15 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 05:55:15 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 05:55:15 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 05:55:17 INFO com.OkaneBanku.app.main.Main - 
+Thank you for choosing Okane Banku to perform your banking needs
+2021-03-25 05:59:23 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 05:59:23 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 05:59:23 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 05:59:23 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 05:59:23 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 05:59:23 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 05:59:23 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 05:59:23 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 05:59:23 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 05:59:23 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 05:59:23 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 05:59:23 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 05:59:26 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 05:59:28 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 05:59:29 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:59:29 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:59:29 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:59:29 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:59:29 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:59:29 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:59:29 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:59:29 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:59:29 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:59:29 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:59:34 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:59:34 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:59:34 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 05:59:34 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 05:59:34 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 05:59:37 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $690.0
+2021-03-25 05:59:37 INFO com.OkaneBanku.app.main.Main - 
+Enter the amount you would like to transfer to your Saving Account: 
+2021-03-25 05:59:41 INFO com.OkaneBanku.app.main.Main - 
+*Transfer Success
+2021-03-25 05:59:41 INFO com.OkaneBanku.app.main.Main - New Saving Balance: $1000.0
+2021-03-25 05:59:41 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:59:41 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:59:41 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:59:41 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:59:41 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:59:41 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:59:41 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:59:41 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:59:41 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:59:41 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 05:59:53 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 05:59:53 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 05:59:53 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 05:59:53 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 05:59:53 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 05:59:54 INFO com.OkaneBanku.app.main.Main - 
+Current balance: $1000.0
+2021-03-25 05:59:54 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 05:59:54 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 05:59:54 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 05:59:54 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 05:59:54 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 05:59:54 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 05:59:54 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 05:59:54 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 05:59:54 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 05:59:54 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:00:00 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 06:00:00 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 06:00:00 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 06:00:00 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 06:00:00 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 06:00:02 INFO com.OkaneBanku.app.main.Main - Current Saving balance: $1000.0
+2021-03-25 06:00:02 INFO com.OkaneBanku.app.main.Main - 
+Enter the amount you would like to transfer to your Checking Account:
+2021-03-25 06:00:06 INFO com.OkaneBanku.app.main.Main - 
+*Transfer Success
+2021-03-25 06:00:06 INFO com.OkaneBanku.app.main.Main - New Saving Balance: $590.0
+2021-03-25 06:00:06 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:00:06 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:00:06 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:00:06 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:00:06 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:00:06 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:00:06 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:00:06 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:00:06 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:00:06 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:14:36 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 06:14:36 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 06:14:36 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 06:14:36 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 06:14:36 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 06:14:36 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 06:14:36 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 06:14:36 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 06:14:36 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 06:14:36 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 06:14:36 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 06:14:36 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 06:14:40 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 06:14:41 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 06:14:42 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:14:42 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:14:42 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:14:42 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:14:42 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:14:42 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:14:42 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:14:42 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:14:42 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:14:42 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:14:49 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 06:14:49 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 06:14:49 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 06:14:49 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 06:14:49 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 06:14:50 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $590.0
+2021-03-25 06:14:50 INFO com.OkaneBanku.app.main.Main - 
+Enter the amount you would like to transfer to your Saving Account: 
+2021-03-25 06:14:55 INFO com.OkaneBanku.app.main.Main - 
+*Transfer Success
+2021-03-25 06:14:55 INFO com.OkaneBanku.app.main.Main - New Saving Balance: $900.0
+2021-03-25 06:14:55 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:14:55 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:14:55 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:14:55 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:14:55 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:14:55 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:14:55 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:14:55 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:14:55 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:14:55 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:15:10 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 06:15:10 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 06:15:10 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 06:15:10 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 06:15:10 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 06:15:11 INFO com.OkaneBanku.app.main.Main - 
+Current Balance: $490.0
+2021-03-25 06:15:11 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:15:11 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:15:11 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:15:11 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:15:11 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:15:11 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:15:11 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:15:11 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:15:11 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:15:11 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:15:16 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 06:15:16 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 06:15:16 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 06:15:16 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 06:15:16 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 06:15:18 INFO com.OkaneBanku.app.main.Main - Current Saving balance: $900.0
+2021-03-25 06:15:18 INFO com.OkaneBanku.app.main.Main - 
+Enter the amount you would like to transfer to your Checking Account:
+2021-03-25 06:15:21 INFO com.OkaneBanku.app.main.Main - 
+*Transfer Success
+2021-03-25 06:15:21 INFO com.OkaneBanku.app.main.Main - New Saving Balance: $490.0
+2021-03-25 06:15:21 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:15:21 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:15:21 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:15:21 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:15:21 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:15:21 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:15:21 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:15:21 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:15:21 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:15:21 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:21:27 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 06:21:27 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 06:21:27 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 06:21:27 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 06:21:27 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 06:21:27 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 06:21:27 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 06:21:27 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 06:21:27 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 06:21:27 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 06:21:27 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 06:21:27 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 06:22:41 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 06:22:43 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 06:22:44 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:22:44 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:22:44 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:22:44 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:22:44 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:22:44 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:22:44 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:22:44 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:22:44 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:22:44 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:22:46 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 06:22:46 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 06:22:46 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 06:22:46 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 06:22:46 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 06:22:47 INFO com.OkaneBanku.app.main.Main - 
+Current Balance: $490.0
+2021-03-25 06:22:47 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:22:47 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:22:47 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:22:47 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:22:47 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:22:47 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:22:47 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:22:47 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:22:47 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:22:47 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:22:51 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 06:22:51 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 06:22:51 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 06:22:51 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 06:22:51 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 06:22:52 INFO com.OkaneBanku.app.main.Main - 
+Current balance: $800.0
+2021-03-25 06:22:52 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:22:52 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:22:52 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:22:52 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:22:52 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:22:52 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:22:52 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:22:52 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:22:52 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:22:52 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:23:01 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 06:23:01 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 06:23:01 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 06:23:01 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 06:23:01 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 06:23:03 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $490.0
+2021-03-25 06:23:03 INFO com.OkaneBanku.app.main.Main - 
+Enter the amount you would like to transfer to your Saving Account: 
+2021-03-25 06:23:07 INFO com.OkaneBanku.app.main.Main - 
+*Transfer Success
+2021-03-25 06:23:07 INFO com.OkaneBanku.app.main.Main - New Saving Balance: $800.0
+2021-03-25 06:23:07 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:23:07 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:23:07 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:23:07 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:23:07 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:23:07 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:23:07 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:23:07 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:23:07 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:23:07 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:23:22 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 06:23:22 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 06:23:22 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 06:23:22 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 06:23:22 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 06:23:23 INFO com.OkaneBanku.app.main.Main - 
+Current balance: $800.0
+2021-03-25 06:23:23 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:23:23 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:23:23 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:23:23 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:23:23 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:23:23 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:23:23 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:23:23 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:23:23 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:23:23 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:24:37 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 06:24:37 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 06:24:37 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 06:24:37 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 06:24:37 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 06:24:37 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 06:24:37 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 06:24:37 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 06:24:37 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 06:24:37 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 06:24:37 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 06:24:37 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 06:24:41 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 06:24:43 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 06:24:45 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 06:24:45 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 06:24:45 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 06:24:45 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 06:24:45 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 06:24:45 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 06:24:45 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 06:24:45 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 06:24:47 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 06:24:48 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 06:24:49 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:24:49 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:24:49 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:24:49 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:24:49 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:24:49 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:24:49 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:24:49 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:24:49 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:24:49 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:24:50 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 06:24:50 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 06:24:50 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 06:24:50 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 06:24:50 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 06:25:00 INFO com.OkaneBanku.app.main.Main - 
+Current Balance: $400.0
+2021-03-25 06:25:00 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:25:00 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:25:00 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:25:00 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:25:00 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:25:00 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:25:00 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:25:00 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:25:00 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:25:00 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:25:05 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 06:25:05 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 06:25:05 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 06:25:05 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 06:25:05 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 06:25:07 INFO com.OkaneBanku.app.main.Main - 
+Current balance: $800.0
+2021-03-25 06:25:07 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:25:07 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:25:07 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:25:07 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:25:07 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:25:07 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:25:07 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:25:07 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:25:07 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:25:07 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:25:11 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 06:25:11 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 06:25:11 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 06:25:11 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 06:25:11 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 06:25:14 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $400.0
+2021-03-25 06:25:14 INFO com.OkaneBanku.app.main.Main - 
+Enter the amount you would like to transfer to your Saving Account: 
+2021-03-25 06:25:15 INFO com.OkaneBanku.app.main.Main - 
+*Transfer Success
+2021-03-25 06:25:15 INFO com.OkaneBanku.app.main.Main - New Saving Balance: $800.0
+2021-03-25 06:25:15 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:25:15 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:25:15 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:25:15 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:25:15 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:25:15 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:25:15 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:25:15 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:25:15 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:25:15 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:25:22 INFO com.OkaneBanku.app.main.Main - Returning to Main Menu
+
+2021-03-25 06:25:22 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 06:25:22 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 06:25:22 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 06:25:22 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 06:25:22 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 06:25:22 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 06:25:22 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 06:25:22 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 06:25:24 INFO com.OkaneBanku.app.main.Main - Invalid selection... Please enter a choice between 1-4 only
+2021-03-25 06:25:24 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 06:25:24 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 06:25:24 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 06:25:24 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 06:25:24 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 06:25:24 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 06:25:24 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 06:25:24 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 06:35:07 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 06:35:07 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 06:35:07 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 06:35:07 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 06:35:07 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 06:35:07 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 06:35:07 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 06:35:07 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 06:35:07 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 06:35:07 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 06:35:07 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 06:35:07 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 06:35:10 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 06:35:12 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 06:35:13 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:35:13 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:35:13 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:35:13 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:35:13 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:35:13 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:35:13 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:35:13 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:35:13 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:35:13 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:35:15 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 06:35:15 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 06:35:15 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 06:35:15 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 06:35:15 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 06:35:17 INFO com.OkaneBanku.app.main.Main - 
+Current Balance: $390.0
+2021-03-25 06:35:17 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:35:17 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:35:17 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:35:17 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:35:17 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:35:17 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:35:17 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:35:17 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:35:17 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:35:17 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:35:22 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 06:35:22 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 06:35:22 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 06:35:22 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 06:35:22 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 06:35:23 INFO com.OkaneBanku.app.main.Main - 
+Current balance: $800.0
+2021-03-25 06:35:23 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:35:23 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:35:23 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:35:23 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:35:23 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:35:23 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:35:23 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:35:23 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:35:23 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:35:23 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:35:30 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 06:35:30 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 06:35:30 INFO com.OkaneBanku.app.main.Main - 1) Transfer Checking Account
+2021-03-25 06:35:30 INFO com.OkaneBanku.app.main.Main - 2) Transfer Saving Account
+
+2021-03-25 06:35:30 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 06:35:32 INFO com.OkaneBanku.app.main.Main - Current Checking balance: $390.0
+2021-03-25 06:35:32 INFO com.OkaneBanku.app.main.Main - 
+Enter the amount you would like to transfer to your Saving Account: 
+2021-03-25 06:35:34 INFO com.OkaneBanku.app.main.Main - 
+*Transfer Success
+2021-03-25 06:35:34 INFO com.OkaneBanku.app.main.Main - New Saving Balance: $810.0
+2021-03-25 06:35:34 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 06:35:34 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 06:35:34 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 06:35:34 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 06:35:34 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 06:35:34 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 06:35:34 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 06:35:34 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 06:35:34 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 06:35:34 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 06:42:22 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 06:42:22 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 06:42:22 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 06:42:22 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 06:42:22 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 06:42:22 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 06:42:22 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 06:42:22 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 06:42:22 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 06:42:22 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 06:42:22 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 06:42:22 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 06:42:30 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 06:42:32 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 06:42:35 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 06:42:35 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 06:42:35 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 06:42:35 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 06:42:35 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 06:42:35 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 06:42:35 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 06:42:35 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 06:42:39 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 06:42:41 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 06:42:44 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 06:42:44 INFO com.OkaneBanku.app.main.Main - * Employee Menu *
+2021-03-25 06:42:44 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 06:42:44 INFO com.OkaneBanku.app.main.Main - 1) Create customer account
+2021-03-25 06:42:44 INFO com.OkaneBanku.app.main.Main - 2) View Accounts
+2021-03-25 06:42:44 INFO com.OkaneBanku.app.main.Main - 3) Accept/Reject pending accounts
+2021-03-25 06:42:44 INFO com.OkaneBanku.app.main.Main - 4) View logs
+2021-03-25 06:42:44 INFO com.OkaneBanku.app.main.Main - 5) Log off
+
+2021-03-25 06:42:54 INFO com.OkaneBanku.app.main.Main - List of verified accounts:
+2021-03-25 06:42:54 INFO com.OkaneBanku.app.main.Main - customer [firstname=steven, lastname=steven, customerUsername=steven, customerPassword=0, pending=true, customerid=3]
+2021-03-25 06:42:54 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 06:42:54 INFO com.OkaneBanku.app.main.Main - * Employee Menu *
+2021-03-25 06:42:54 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 06:42:54 INFO com.OkaneBanku.app.main.Main - 1) Create customer account
+2021-03-25 06:42:54 INFO com.OkaneBanku.app.main.Main - 2) View Accounts
+2021-03-25 06:42:54 INFO com.OkaneBanku.app.main.Main - 3) Accept/Reject pending accounts
+2021-03-25 06:42:54 INFO com.OkaneBanku.app.main.Main - 4) View logs
+2021-03-25 06:42:54 INFO com.OkaneBanku.app.main.Main - 5) Log off
+
+2021-03-25 06:43:12 INFO com.OkaneBanku.app.main.Main - List of accounts awaiting for approval
+2021-03-25 06:43:13 INFO com.OkaneBanku.app.main.Main - customer [firstname=sugar, lastname=dada, customerUsername=honey, customerPassword=honey, pending=false, customerid=7]
+2021-03-25 06:43:13 INFO com.OkaneBanku.app.main.Main - customer [firstname=why, lastname=you, customerUsername=dont, customerPassword=work, pending=false, customerid=8]
+2021-03-25 06:43:13 INFO com.OkaneBanku.app.main.Main - customer [firstname=meh, lastname=why, customerUsername=meh, customerPassword=yo, pending=false, customerid=9]
+2021-03-25 06:43:13 INFO com.OkaneBanku.app.main.Main - customer [firstname=your, lastname=are, customerUsername=my, customerPassword=cherry, pending=false, customerid=10]
+2021-03-25 06:43:13 INFO com.OkaneBanku.app.main.Main - customer [firstname=what, lastname=was, customerUsername=the, customerPassword=error, pending=false, customerid=11]
+2021-03-25 06:43:13 INFO com.OkaneBanku.app.main.Main - customer [firstname=are, lastname=you, customerUsername=working, customerPassword=now, pending=false, customerid=12]
+2021-03-25 06:43:13 INFO com.OkaneBanku.app.main.Main - customer [firstname=are, lastname=you, customerUsername=working, customerPassword=now, pending=false, customerid=13]
+2021-03-25 06:43:13 INFO com.OkaneBanku.app.main.Main - customer [firstname=steven, lastname=steven, customerUsername=steven, customerPassword=steven, pending=false, customerid=14]
+2021-03-25 06:43:13 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 06:43:13 INFO com.OkaneBanku.app.main.Main - Select customerid to verify
+2021-03-25 06:43:31 INFO com.OkaneBanku.app.main.Main - Customer's account is now verified
+2021-03-25 06:43:31 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 06:43:31 INFO com.OkaneBanku.app.main.Main - * Employee Menu *
+2021-03-25 06:43:31 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 06:43:31 INFO com.OkaneBanku.app.main.Main - 1) Create customer account
+2021-03-25 06:43:31 INFO com.OkaneBanku.app.main.Main - 2) View Accounts
+2021-03-25 06:43:31 INFO com.OkaneBanku.app.main.Main - 3) Accept/Reject pending accounts
+2021-03-25 06:43:31 INFO com.OkaneBanku.app.main.Main - 4) View logs
+2021-03-25 06:43:31 INFO com.OkaneBanku.app.main.Main - 5) Log off
+
+2021-03-25 06:45:41 INFO com.OkaneBanku.app.main.Main - Logged off sucessfully
+2021-03-25 06:45:41 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 06:45:41 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 06:45:41 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 06:45:41 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 06:45:41 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 06:45:41 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 06:45:41 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 06:45:41 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 06:46:51 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 06:46:51 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 06:46:51 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 06:46:51 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 06:46:51 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 06:46:51 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 06:46:51 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 06:46:51 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 06:46:51 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 06:46:51 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 06:46:51 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 06:46:51 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 06:46:57 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 06:46:59 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 06:47:03 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 06:47:03 INFO com.OkaneBanku.app.main.Main - * Employee Menu *
+2021-03-25 06:47:03 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 06:47:03 INFO com.OkaneBanku.app.main.Main - 1) Create customer account
+2021-03-25 06:47:03 INFO com.OkaneBanku.app.main.Main - 2) View Accounts
+2021-03-25 06:47:03 INFO com.OkaneBanku.app.main.Main - 3) Accept/Reject pending accounts
+2021-03-25 06:47:03 INFO com.OkaneBanku.app.main.Main - 4) View logs
+2021-03-25 06:47:03 INFO com.OkaneBanku.app.main.Main - 5) Log off
+2021-03-25 06:47:03 INFO com.OkaneBanku.app.main.Main - 
+Enter option from 1 - 5
+2021-03-25 06:47:06 INFO com.OkaneBanku.app.main.Main - Enter Customer details below to create a new account
+2021-03-25 06:47:06 INFO com.OkaneBanku.app.main.Main - Enter First name
+2021-03-25 06:47:10 INFO com.OkaneBanku.app.main.Main - Enter Last name
+2021-03-25 06:47:11 INFO com.OkaneBanku.app.main.Main - Create new username
+2021-03-25 06:47:15 INFO com.OkaneBanku.app.main.Main - Create new passowrd
+2021-03-25 06:47:19 INFO com.OkaneBanku.app.main.Main - Enter your starting checking balance
+2021-03-25 06:47:22 INFO com.OkaneBanku.app.main.Main - Enter your starting saving balance
+2021-03-25 06:47:23 INFO com.OkaneBanku.app.main.Main - New Account Created Sucessfully
+2021-03-25 06:47:23 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 06:47:23 INFO com.OkaneBanku.app.main.Main - * Employee Menu *
+2021-03-25 06:47:23 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 06:47:23 INFO com.OkaneBanku.app.main.Main - 1) Create customer account
+2021-03-25 06:47:23 INFO com.OkaneBanku.app.main.Main - 2) View Accounts
+2021-03-25 06:47:23 INFO com.OkaneBanku.app.main.Main - 3) Accept/Reject pending accounts
+2021-03-25 06:47:23 INFO com.OkaneBanku.app.main.Main - 4) View logs
+2021-03-25 06:47:23 INFO com.OkaneBanku.app.main.Main - 5) Log off
+2021-03-25 06:47:23 INFO com.OkaneBanku.app.main.Main - 
+Enter option from 1 - 5
+2021-03-25 06:47:30 INFO com.OkaneBanku.app.main.Main - 
+List of accounts awaiting for approval
+2021-03-25 06:47:30 INFO com.OkaneBanku.app.main.Main - _________________________________________
+2021-03-25 06:47:30 INFO com.OkaneBanku.app.main.Main - customer [firstname=why, lastname=you, customerUsername=dont, customerPassword=work, pending=false, customerid=8]
+2021-03-25 06:47:30 INFO com.OkaneBanku.app.main.Main - customer [firstname=meh, lastname=why, customerUsername=meh, customerPassword=yo, pending=false, customerid=9]
+2021-03-25 06:47:30 INFO com.OkaneBanku.app.main.Main - customer [firstname=your, lastname=are, customerUsername=my, customerPassword=cherry, pending=false, customerid=10]
+2021-03-25 06:47:30 INFO com.OkaneBanku.app.main.Main - customer [firstname=what, lastname=was, customerUsername=the, customerPassword=error, pending=false, customerid=11]
+2021-03-25 06:47:30 INFO com.OkaneBanku.app.main.Main - customer [firstname=are, lastname=you, customerUsername=working, customerPassword=now, pending=false, customerid=12]
+2021-03-25 06:47:30 INFO com.OkaneBanku.app.main.Main - customer [firstname=are, lastname=you, customerUsername=working, customerPassword=now, pending=false, customerid=13]
+2021-03-25 06:47:30 INFO com.OkaneBanku.app.main.Main - customer [firstname=steven, lastname=steven, customerUsername=steven, customerPassword=steven, pending=false, customerid=14]
+2021-03-25 06:47:30 INFO com.OkaneBanku.app.main.Main - customer [firstname=stephanie, lastname=posso, customerUsername=sposso, customerPassword=posso, pending=false, customerid=15]
+2021-03-25 06:47:30 INFO com.OkaneBanku.app.main.Main - 
+Select customerid to verify
+2021-03-25 06:47:36 INFO com.OkaneBanku.app.main.Main - Customer's account is now verified
+5
+2021-03-25 06:47:36 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 06:47:36 INFO com.OkaneBanku.app.main.Main - * Employee Menu *
+2021-03-25 06:47:36 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 06:47:36 INFO com.OkaneBanku.app.main.Main - 1) Create customer account
+2021-03-25 06:47:36 INFO com.OkaneBanku.app.main.Main - 2) View Accounts
+2021-03-25 06:47:36 INFO com.OkaneBanku.app.main.Main - 3) Accept/Reject pending accounts
+2021-03-25 06:47:36 INFO com.OkaneBanku.app.main.Main - 4) View logs
+2021-03-25 06:47:36 INFO com.OkaneBanku.app.main.Main - 5) Log off
+2021-03-25 06:47:36 INFO com.OkaneBanku.app.main.Main - 
+Enter option from 1 - 5
+2021-03-25 07:05:08 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 07:05:08 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 07:05:08 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 07:05:08 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 07:05:08 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 07:05:08 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 07:05:08 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 07:05:08 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 07:05:08 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 07:05:08 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 07:05:08 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 07:05:08 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 07:05:19 INFO com.OkaneBanku.app.main.Main - Fill out the details below to create a new account
+2021-03-25 07:05:19 INFO com.OkaneBanku.app.main.Main - Enter First name
+2021-03-25 07:05:24 INFO com.OkaneBanku.app.main.Main - Enter Last name
+2021-03-25 07:05:27 INFO com.OkaneBanku.app.main.Main - Create new username
+2021-03-25 07:05:29 INFO com.OkaneBanku.app.main.Main - Create new passowrd
+2021-03-25 07:05:31 INFO com.OkaneBanku.app.main.Main - Enter your starting checking balance
+2021-03-25 07:05:34 INFO com.OkaneBanku.app.main.Main - Enter your starting saving balance
+2021-03-25 07:05:35 INFO com.OkaneBanku.app.main.Main - New Account Successfully Created
+2021-03-25 07:05:35 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 07:05:35 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 07:05:35 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 07:05:35 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 07:05:35 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 07:05:35 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 07:05:35 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 07:05:35 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 07:05:36 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 07:05:38 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 07:05:39 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 07:05:39 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 07:05:39 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 07:05:39 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 07:05:39 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 07:05:39 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 07:05:39 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 07:05:39 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 07:05:39 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 07:05:39 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 07:05:41 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 07:05:41 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 07:05:41 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 07:05:41 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 07:05:41 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 07:05:44 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 07:05:44 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 07:05:44 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 07:05:44 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 07:05:44 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 07:05:44 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 07:05:44 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 07:05:44 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 07:05:44 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 07:05:44 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 07:08:38 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 07:08:38 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 07:08:38 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 07:08:38 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 07:08:38 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 07:08:38 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 07:08:38 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 07:08:38 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 07:08:38 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 07:08:38 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 07:08:38 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 07:08:38 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 07:08:40 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 07:08:41 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 07:08:43 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 07:08:43 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 07:08:43 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 07:08:43 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 07:08:43 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 07:08:43 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 07:08:43 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 07:08:43 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 07:08:43 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 07:08:43 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 07:08:44 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 07:08:44 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 07:08:44 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 07:08:44 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 07:08:44 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 07:08:45 INFO com.OkaneBanku.app.main.Main - Acccount is not verified
+2021-03-25 07:08:45 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 07:08:45 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 07:08:45 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 07:08:45 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 07:08:45 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 07:08:45 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 07:08:45 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 07:08:45 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 07:08:45 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 07:08:45 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 07:15:52 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 07:15:52 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 07:15:52 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 07:15:52 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 07:15:52 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 07:15:53 INFO com.OkaneBanku.app.main.Main - Enter the amount you would like to depsoit to your Checking Account
+2021-03-25 07:15:56 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 07:15:56 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 07:15:56 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 07:15:56 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 07:15:56 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 07:15:56 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 07:15:56 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 07:15:56 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 07:15:56 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 07:15:56 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 07:30:02 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 07:30:02 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 07:30:02 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 07:30:02 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 07:30:02 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 07:30:02 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 07:30:02 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 07:30:02 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 07:30:02 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 07:30:02 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 07:30:02 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 07:30:02 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 07:30:07 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 07:30:10 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 07:30:12 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 07:30:12 INFO com.OkaneBanku.app.main.Main - * Employee Menu *
+2021-03-25 07:30:12 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 07:30:12 INFO com.OkaneBanku.app.main.Main - 1) Create customer account
+2021-03-25 07:30:12 INFO com.OkaneBanku.app.main.Main - 2) View Accounts
+2021-03-25 07:30:12 INFO com.OkaneBanku.app.main.Main - 3) Accept/Reject pending accounts
+2021-03-25 07:30:12 INFO com.OkaneBanku.app.main.Main - 4) View logs
+2021-03-25 07:30:12 INFO com.OkaneBanku.app.main.Main - 5) Log off
+2021-03-25 07:30:12 INFO com.OkaneBanku.app.main.Main - 
+Enter option from 1 - 5
+2021-03-25 07:30:15 INFO com.OkaneBanku.app.main.Main - 
+List of accounts awaiting for approval
+2021-03-25 07:30:15 INFO com.OkaneBanku.app.main.Main - _________________________________________
+2021-03-25 07:30:15 INFO com.OkaneBanku.app.main.Main - customer [firstname=steven, lastname=nguyen, customerUsername=steven, customerPassword=nguyen, pending=false, customerid=16]
+2021-03-25 07:30:15 INFO com.OkaneBanku.app.main.Main - 
+Select customerid to verify
+2021-03-25 07:30:21 INFO com.OkaneBanku.app.main.Main - Customer's account is now verified
+
+2021-03-25 07:30:21 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 07:30:21 INFO com.OkaneBanku.app.main.Main - * Employee Menu *
+2021-03-25 07:30:21 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 07:30:21 INFO com.OkaneBanku.app.main.Main - 1) Create customer account
+2021-03-25 07:30:21 INFO com.OkaneBanku.app.main.Main - 2) View Accounts
+2021-03-25 07:30:21 INFO com.OkaneBanku.app.main.Main - 3) Accept/Reject pending accounts
+2021-03-25 07:30:21 INFO com.OkaneBanku.app.main.Main - 4) View logs
+2021-03-25 07:30:21 INFO com.OkaneBanku.app.main.Main - 5) Log off
+2021-03-25 07:30:21 INFO com.OkaneBanku.app.main.Main - 
+Enter option from 1 - 5
+2021-03-25 07:30:23 INFO com.OkaneBanku.app.main.Main - Logged off sucessfully
+2021-03-25 07:30:23 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 07:30:23 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 07:30:23 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 07:30:23 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 07:30:23 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 07:30:23 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 07:30:23 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 07:30:23 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 07:30:26 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 07:30:27 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 07:30:28 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 07:30:28 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 07:30:28 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 07:30:28 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 07:30:28 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 07:30:28 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 07:30:28 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 07:30:28 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 07:30:28 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 07:30:28 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 07:30:33 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 07:30:33 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 07:30:33 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 07:30:33 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 07:30:33 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 07:30:35 INFO com.OkaneBanku.app.main.Main - Unable to peform transaction due to unverified Account
+2021-03-25 07:30:35 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 07:30:35 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 07:30:35 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 07:30:35 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 07:30:35 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 07:30:35 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 07:30:35 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 07:30:35 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 07:30:35 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 07:30:35 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 07:30:43 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 07:30:43 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 07:30:43 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 07:30:43 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 07:30:43 INFO com.OkaneBanku.app.main.Main - Enter an option between 1 - 2:
+2021-03-25 07:30:46 INFO com.OkaneBanku.app.main.Main - Enter the amount you would like to depsoit to your Saving Account
+2021-03-25 07:30:49 INFO com.OkaneBanku.app.main.Main - Unable to peform transaction due to unverified Account
+2021-03-25 07:30:49 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 07:30:49 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 07:30:49 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 07:30:49 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 07:30:49 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 07:30:49 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 07:30:49 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 07:30:49 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 07:30:49 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 07:30:49 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 07:31:09 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 07:31:09 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 07:31:09 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 07:31:09 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 07:31:09 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 07:31:09 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 07:31:09 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 07:31:09 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 07:31:09 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 07:31:09 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 07:31:09 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 07:31:09 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 07:31:20 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 07:31:21 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 07:31:23 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 07:31:23 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 07:31:23 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 07:31:23 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 07:31:23 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 07:31:23 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 07:31:23 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 07:31:23 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 07:31:23 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 07:31:23 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - 
+Account |
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - ---------
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - 1) Checking
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - 2) Saving
+
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 2:
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - Unable to peform transaction due to unverified Account
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - 
+=============
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - Customer Menu
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - ==============
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - 1) Check account balance
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - 2) Deposit to account balance
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - 3) Withdraw from account balance
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - 4) Perform transfer
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - 5) Check pending transfer
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - 6) Exit
+
+2021-03-25 07:31:27 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1 - 6:
+2021-03-25 07:31:45 INFO com.OkaneBanku.app.main.Main - Returning to Main Menu
+
+2021-03-25 07:31:45 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 07:31:45 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 07:31:45 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 07:31:45 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 07:31:45 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 07:31:45 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 07:31:45 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 07:31:45 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 07:31:46 INFO com.OkaneBanku.app.main.Main - 
+Enter username: 
+2021-03-25 07:31:48 INFO com.OkaneBanku.app.main.Main - 
+Enter password: 
+2021-03-25 07:31:50 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 07:31:50 INFO com.OkaneBanku.app.main.Main - * Employee Menu *
+2021-03-25 07:31:50 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 07:31:50 INFO com.OkaneBanku.app.main.Main - 1) Create customer account
+2021-03-25 07:31:50 INFO com.OkaneBanku.app.main.Main - 2) View Accounts
+2021-03-25 07:31:50 INFO com.OkaneBanku.app.main.Main - 3) Accept/Reject pending accounts
+2021-03-25 07:31:50 INFO com.OkaneBanku.app.main.Main - 4) View logs
+2021-03-25 07:31:50 INFO com.OkaneBanku.app.main.Main - 5) Log off
+2021-03-25 07:31:50 INFO com.OkaneBanku.app.main.Main - 
+Enter option from 1 - 5
+2021-03-25 07:31:54 INFO com.OkaneBanku.app.main.Main - 
+List of verified accounts:
+2021-03-25 07:31:54 INFO com.OkaneBanku.app.main.Main - _____________________________
+2021-03-25 07:31:54 INFO com.OkaneBanku.app.main.Main - customer [firstname=steven, lastname=nguyen, customerUsername=steven, customerPassword=nguyen, pending=true, customerid=16]
+2021-03-25 07:31:54 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 07:31:54 INFO com.OkaneBanku.app.main.Main - * Employee Menu *
+2021-03-25 07:31:54 INFO com.OkaneBanku.app.main.Main - *****************
+2021-03-25 07:31:54 INFO com.OkaneBanku.app.main.Main - 1) Create customer account
+2021-03-25 07:31:54 INFO com.OkaneBanku.app.main.Main - 2) View Accounts
+2021-03-25 07:31:54 INFO com.OkaneBanku.app.main.Main - 3) Accept/Reject pending accounts
+2021-03-25 07:31:54 INFO com.OkaneBanku.app.main.Main - 4) View logs
+2021-03-25 07:31:54 INFO com.OkaneBanku.app.main.Main - 5) Log off
+2021-03-25 07:31:54 INFO com.OkaneBanku.app.main.Main - 
+Enter option from 1 - 5
+2021-03-25 07:32:00 INFO com.OkaneBanku.app.main.Main - Logged off sucessfully
+2021-03-25 07:32:00 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 07:32:00 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 07:32:00 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 07:32:00 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 07:32:00 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 07:32:00 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 07:32:00 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 07:32:00 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
