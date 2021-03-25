@@ -206,7 +206,7 @@ public class Main {
 													usermessage.info("New Saving Balance: $" + customerservice
 															.viewSavingAcc(customerinfo.getCustomerid()));
 												} catch (BusinessException e) {
-													e.getMessage();
+													usermessage.info("Incorrect option... please choose an option between 1 and 2\n");;
 												}
 											}
 											if (accountchoice == 2) {
@@ -226,7 +226,7 @@ public class Main {
 													usermessage.info("New Saving Balance: $" + customerservice
 															.viewSavingAcc(customerinfo.getCustomerid()));
 												} catch (BusinessException e) {
-													e.getMessage();
+													usermessage.info("Incorrect option... please choose an option between 1 and 2\n");;
 												}
 											}
 										} catch (NumberFormatException e) {
