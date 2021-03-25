@@ -1,0 +1,63 @@
+package com.OkaneBanku.app.service.impl;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
+
+import com.OkaneBanku.app.service.CustomerService;
+
+class CustomerImplTest {
+private static CustomerValidations customerservice;
+	
+	@BeforeAll
+	public static void setupService() {
+		customerservice = new CustomerValidations();
+	}
+	
+	@Test
+	void testCreateCustomerfirstname() {
+		
+	}
+
+	@Test
+	void testViewSavingAccforletters() {
+		assertEquals(false, customerservice.viewSavingAcc(1));
+	}
+
+	@Test
+	void testViewCheckingAcc() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testWithdrawChecking() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testWithdrawSaving() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testDepositSaving() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testTransferSaving() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testTransferChecking() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testLogincheck() {
+		fail("Not yet implemented");
+	}
+
+}

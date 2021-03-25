@@ -36,5 +36,7 @@ public class CustomerValidations {
 			return false;
 		}
 	}
-	
+	public static boolean isAmountValid(double m){
+		return false;
+	}
 }

@@ -1,0 +1,40 @@
+package com.OkaneBanku.app.service.impl;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
+
+class CustomerValidationsTest {
+private static CustomerValidations customerservice;
+	
+	@BeforeAll
+	public static void setupService() {
+		customerservice = new CustomerValidations();
+	}
+	
+	@Test
+	void testIsFirstNameValidletters() {
+		assertEquals(true, ("[a-zA-Z]"));
+	}
+	@Test
+	void testIsFirstNameValidNull() {
+		assertEquals(false, customerservice.isFirstNameValid(null));
+	}
+
+	@Test
+	void testIsLastNameValid() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testIsUsernameValid() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testIsPasswordValid() {
+		fail("Not yet implemented");
+	}
+
+}

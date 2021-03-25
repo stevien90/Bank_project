@@ -1,0 +1,67 @@
+package com.OkaneBanku.app.service.impl;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+import com.OkaneBanku.app.service.CustomerService;
+
+public class CustomerImplTest {
+
+	private static CustomerService customerservice;
+	@Before
+	public static void setupService() {
+		
+	}
+	@Test
+	public void testCreateCustomer() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testViewSavingAcc() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testViewCheckingAcc() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testWithdrawChecking() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testWithdrawSaving() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testDepositChecking() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testDepositSaving() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testTransferSaving() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testTransferChecking() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testLogincheck() {
+		fail("Not yet implemented");
+	}
+
+}

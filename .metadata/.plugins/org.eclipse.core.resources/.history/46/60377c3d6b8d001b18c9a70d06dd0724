@@ -1,0 +1,22 @@
+package com.OkaneBanku.app.service.impl;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
+
+import com.OkaneBanku.app.service.CustomerService;
+
+class CustomerImplTest {
+	private static CustomerService customerservice;
+	
+	@BeforeAll
+	public static void setupService() {
+		customerservice = new CustomerImpl();
+	}
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}

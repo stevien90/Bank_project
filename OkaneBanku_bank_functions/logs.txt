@@ -2521,3 +2521,32 @@ Enter option from 1 - 5
 2021-03-25 07:32:00 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
 
 2021-03-25 07:32:00 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 08:43:26 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 08:43:26 INFO com.OkaneBanku.app.main.Main - || Welcome to Okane Banku App V1.0 ||
+2021-03-25 08:43:26 INFO com.OkaneBanku.app.main.Main - =====================================
+2021-03-25 08:43:26 INFO com.OkaneBanku.app.main.Main - 
+2021-03-25 08:43:26 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 08:43:26 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 08:43:26 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 08:43:26 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 08:43:26 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 08:43:26 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 08:43:26 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 08:43:26 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
+2021-03-25 08:43:33 INFO com.OkaneBanku.app.main.Main - Fill out the details below to create a new account
+2021-03-25 08:43:33 INFO com.OkaneBanku.app.main.Main - Enter First name
+2021-03-25 08:43:34 INFO com.OkaneBanku.app.main.Main - Enter Last name
+2021-03-25 08:43:35 INFO com.OkaneBanku.app.main.Main - Create new username
+2021-03-25 08:43:38 INFO com.OkaneBanku.app.main.Main - Create new passowrd
+2021-03-25 08:43:40 INFO com.OkaneBanku.app.main.Main - Enter your starting checking balance
+2021-03-25 08:43:42 INFO com.OkaneBanku.app.main.Main - Enter your starting saving balance
+2021-03-25 08:43:43 INFO com.OkaneBanku.app.main.Main -  _________________
+2021-03-25 08:43:43 INFO com.OkaneBanku.app.main.Main - |    Main Menu    |
+2021-03-25 08:43:43 INFO com.OkaneBanku.app.main.Main -  -----------------
+2021-03-25 08:43:43 INFO com.OkaneBanku.app.main.Main - 1) Customer Log in
+2021-03-25 08:43:43 INFO com.OkaneBanku.app.main.Main - 2) Employee Log in
+2021-03-25 08:43:43 INFO com.OkaneBanku.app.main.Main - 3) Create New Account
+2021-03-25 08:43:43 INFO com.OkaneBanku.app.main.Main - 4) Exit Application
+
+2021-03-25 08:43:43 INFO com.OkaneBanku.app.main.Main - **Enter an option between 1-4
