@@ -1,10 +1,7 @@
 package com.OkaneBanku.app.service.impl;
 
-import com.OkaneBanku.app.dao.CustomerDAO;
-import com.OkaneBanku.app.dao.impl.CustomerDAOImpl;
-
 public class CustomerValidations {
-	static CustomerDAO customerdao = new CustomerDAOImpl();
+
 	public static boolean isFirstNameValid(String Firstname) {
 		if (Firstname != null && Firstname.matches("[a-zA-Z]")) {
 			return true;
@@ -42,6 +39,4 @@ public class CustomerValidations {
 	public static boolean isAmountValid(double m){
 		return false;
 	}
-	
-	
 }

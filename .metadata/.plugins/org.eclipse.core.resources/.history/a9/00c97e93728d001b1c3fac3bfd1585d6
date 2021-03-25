@@ -120,7 +120,7 @@ public class customer {
 	@Override
 	public String toString() {
 		return "customer [firstname=" + firstname + ", lastname=" + lastname + ", customerUsername=" + customerUsername
-				+ ", pending=" + pending + ", customerid=" + customerid
+				+ ", customerPassword=" + customerPassword + ", pending=" + pending + ", customerid=" + customerid
 				+ "]";
 	}
 
